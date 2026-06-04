@@ -1,0 +1,47 @@
+[
+  {
+    "entry_hour": "09:00",
+    "total_pnl": 2202.0,
+    "account_roi_pct": 11.0,
+    "overall_roi_pct": 2.6,
+    "loss_days": 9.0,
+    "tail_loss_days": 8.0,
+    "worst_day": -2036.0
+  },
+  {
+    "entry_hour": "10:00",
+    "total_pnl": 2856.0,
+    "account_roi_pct": 14.3,
+    "overall_roi_pct": 3.2,
+    "loss_days": 10.0,
+    "tail_loss_days": 6.0,
+    "worst_day": -2101.0
+  },
+  {
+    "entry_hour": "11:00",
+    "total_pnl": 5063.0,
+    "account_roi_pct": 25.3,
+    "overall_roi_pct": 5.7,
+    "loss_days": 8.0,
+    "tail_loss_days": 7.0,
+    "worst_day": -2128.0
+  },
+  {
+    "entry_hour": "12:00",
+    "total_pnl": 11611.0,
+    "account_roi_pct": 58.1,
+    "overall_roi_pct": 12.9,
+    "loss_days": 5.0,
+    "tail_loss_days": 2.0,
+    "worst_day": -1969.0
+  },
+  {
+    "entry_hour": "13:00",
+    "total_pnl": 9290.0,
+    "account_roi_pct": 46.5,
+    "overall_roi_pct": 10.5,
+    "loss_days": 6.0,
+    "tail_loss_days": 3.0,
+    "worst_day": -1346.0
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "built_at": "2026-06-04 12:08 PDT",
+  "data_as_of_ts": 1780600013.751936,
+  "starting_cash": 20000.0,
+  "sources": {
+    "zerodte_noon_trades.parquet": 1780557795.2226753,
+    "zerodte_all_trades.parquet": 1780557775.9026334,
+    "zerodte-experiments.jsonl": 1780600013.751936,
+    "zerodte-theory-cards.jsonl": 1780600013.740662
+  },
+  "champion_id": "portfolio_highvol12",
+  "benchmark_id": "portfolio_highvol12",
+  "data_as_of": "Jun 4, 2026",
+  "sessions": 43,
+  "n_regimes": 3
+}
