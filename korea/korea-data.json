@@ -1,0 +1,5456 @@
+{
+  "fetched_at": "2026-07-08T22:00:17.771248+09:00",
+  "latest": {
+    "bok_base_rate_pct": {
+      "date": "2026-07-06",
+      "value": 2.5
+    },
+    "cd91_pct": {
+      "date": "2026-07-08",
+      "value": 2.91
+    },
+    "cd_bok_spread_pct_pt": {
+      "date": "2026-07-08",
+      "value": 0.41000000000000014
+    },
+    "ewy_close": {
+      "date": "2026-07-07",
+      "value": 181.2899932861328
+    },
+    "ewy_volume": {
+      "date": "2026-07-07",
+      "value": 23594600.0
+    },
+    "forced_sales_krw": null,
+    "hynix_close": {
+      "date": "2026-07-08",
+      "value": 2076000.0
+    },
+    "hynix_leverage_etf_close": {
+      "date": "2026-07-08",
+      "value": 19635.0
+    },
+    "hynix_leverage_etf_traded_value_krw": {
+      "date": "2026-07-08",
+      "value": 5228991862710.0
+    },
+    "hynix_leverage_etf_volume": {
+      "date": "2026-07-08",
+      "value": 266309746.0
+    },
+    "hynix_traded_value_krw": {
+      "date": "2026-07-08",
+      "value": 15577743480000.0
+    },
+    "hynix_volume": {
+      "date": "2026-07-08",
+      "value": 7503730.0
+    },
+    "investor_deposits_krw": null,
+    "kosdaq_close": {
+      "date": "2026-07-08",
+      "value": 785.0
+    },
+    "kosdaq_traded_value_krw": {
+      "date": "2026-07-08",
+      "value": 448955630.0
+    },
+    "kosdaq_volume": {
+      "date": "2026-07-08",
+      "value": 571918.0
+    },
+    "kospi200_close": {
+      "date": "2026-07-08",
+      "value": 1158.3699951171875
+    },
+    "kospi200_traded_value_krw": {
+      "date": "2026-07-08",
+      "value": 216854971.67590332
+    },
+    "kospi200_volume": {
+      "date": "2026-07-08",
+      "value": 187207.0
+    },
+    "kospi_close": {
+      "date": "2026-07-08",
+      "value": 7246.7900390625
+    },
+    "kospi_drawdown_pct": {
+      "date": "2026-07-08",
+      "value": -20.492068238679593
+    },
+    "kospi_realized_vol_20d_pct": {
+      "date": "2026-07-08",
+      "value": 72.95223386368008
+    },
+    "kospi_traded_value_krw": {
+      "date": "2026-07-08",
+      "value": 3631156331.663086
+    },
+    "kospi_volume": {
+      "date": "2026-07-08",
+      "value": 501071.0
+    },
+    "krx_kosdaq_foreign_netbuy_bn_krw": {
+      "date": "2026-07-08",
+      "value": 338.0
+    },
+    "krx_kosdaq_individual_netbuy_bn_krw": {
+      "date": "2026-07-08",
+      "value": -196.0
+    },
+    "krx_kosdaq_institution_netbuy_bn_krw": {
+      "date": "2026-07-08",
+      "value": -145.0
+    },
+    "krx_kospi200_futures_foreign_netbuy_bn_krw": {
+      "date": "2026-07-08",
+      "value": 1634.0
+    },
+    "krx_kospi200_futures_individual_netbuy_bn_krw": {
+      "date": "2026-07-08",
+      "value": 283.0
+    },
+    "krx_kospi200_futures_institution_netbuy_bn_krw": {
+      "date": "2026-07-08",
+      "value": -1946.0
+    },
+    "krx_kospi200_options_foreign_netbuy_bn_krw": {
+      "date": "2026-07-08",
+      "value": -53.0
+    },
+    "krx_kospi200_options_individual_netbuy_bn_krw": {
+      "date": "2026-07-08",
+      "value": 2.0
+    },
+    "krx_kospi200_options_institution_netbuy_bn_krw": {
+      "date": "2026-07-08",
+      "value": 52.0
+    },
+    "krx_kospi_foreign_netbuy_bn_krw": {
+      "date": "2026-07-08",
+      "value": 344.0
+    },
+    "krx_kospi_individual_netbuy_bn_krw": {
+      "date": "2026-07-08",
+      "value": -36.0
+    },
+    "krx_kospi_institution_netbuy_bn_krw": {
+      "date": "2026-07-08",
+      "value": -355.0
+    },
+    "leveraged_etf_traded_value_krw": {
+      "date": "2026-07-08",
+      "value": 6879330832860.0
+    },
+    "margin_loans_total_krw": null,
+    "margin_to_deposits_pct": null,
+    "samsung_close": {
+      "date": "2026-07-08",
+      "value": 277500.0
+    },
+    "samsung_leverage_etf_close": {
+      "date": "2026-07-08",
+      "value": 16185.0
+    },
+    "samsung_leverage_etf_traded_value_krw": {
+      "date": "2026-07-08",
+      "value": 1650338970150.0
+    },
+    "samsung_leverage_etf_volume": {
+      "date": "2026-07-08",
+      "value": 101967190.0
+    },
+    "samsung_traded_value_krw": {
+      "date": "2026-07-08",
+      "value": 9928397497500.0
+    },
+    "samsung_volume": {
+      "date": "2026-07-08",
+      "value": 35778009.0
+    },
+    "stock_collateral_loans_krw": null,
+    "usdkrw_close": {
+      "date": "2026-07-08",
+      "value": 1508.550048828125
+    },
+    "usdkrw_traded_value_krw": {
+      "date": "2026-07-08",
+      "value": 0.0
+    },
+    "usdkrw_volume": {
+      "date": "2026-07-08",
+      "value": 0.0
+    }
+  },
+  "metrics": [
+    {
+      "category": "Direct leverage",
+      "description": "Credit financing balance, total KOSPI + KOSDAQ.",
+      "format": "krw_trn",
+      "key": "margin_loans_total_krw",
+      "label": "KOFIA margin loans",
+      "requires": "KOREA_FSC_SERVICE_KEY or DATA_GO_KR_SERVICE_KEY",
+      "source": "FSC/KOFIA public-data API"
+    },
+    {
+      "category": "Direct leverage",
+      "description": "Deposited-securities collateral financing.",
+      "format": "krw_trn",
+      "key": "stock_collateral_loans_krw",
+      "label": "Stock-collateral loans",
+      "requires": "KOREA_FSC_SERVICE_KEY or DATA_GO_KR_SERVICE_KEY",
+      "source": "FSC/KOFIA public-data API"
+    },
+    {
+      "category": "Stress plumbing",
+      "description": "Actual forced-sale amount versus unpaid trade receivables.",
+      "format": "krw_bn",
+      "key": "forced_sales_krw",
+      "label": "Forced sales",
+      "requires": "KOREA_FSC_SERVICE_KEY or DATA_GO_KR_SERVICE_KEY",
+      "source": "FSC/KOFIA securities-market capital API"
+    },
+    {
+      "category": "Speculative liquidity",
+      "description": "Brokerage investor deposits, excluding exchange-traded derivatives deposits.",
+      "format": "krw_trn",
+      "key": "investor_deposits_krw",
+      "label": "Investor deposits",
+      "requires": "KOREA_FSC_SERVICE_KEY or DATA_GO_KR_SERVICE_KEY",
+      "source": "FSC/KOFIA securities-market capital API"
+    },
+    {
+      "category": "Funding pressure",
+      "description": "CD(91d) minus Bank of Korea base rate.",
+      "format": "pct_pt",
+      "key": "cd_bok_spread_pct_pt",
+      "label": "CD - BOK spread",
+      "source": "Bank of Korea ECOS"
+    },
+    {
+      "category": "KRX flows",
+      "description": "Public KRX latest snapshot, persisted locally for daily history.",
+      "format": "krw_bn_signed",
+      "key": "krx_kospi_individual_netbuy_bn_krw",
+      "label": "KOSPI individual net buy",
+      "source": "KRX public main-page endpoint"
+    },
+    {
+      "category": "KRX flows",
+      "description": "Public KRX latest snapshot, persisted locally for daily history.",
+      "format": "krw_bn_signed",
+      "key": "krx_kospi_foreign_netbuy_bn_krw",
+      "label": "KOSPI foreign net buy",
+      "source": "KRX public main-page endpoint"
+    },
+    {
+      "category": "Market stress",
+      "description": "Close versus highest close since dashboard start date.",
+      "format": "pct",
+      "key": "kospi_drawdown_pct",
+      "label": "KOSPI drawdown",
+      "source": "Yahoo Finance"
+    },
+    {
+      "category": "Market stress",
+      "description": "20-trading-day realized volatility, annualized. Used while official VKOSPI feed is not configured.",
+      "format": "pct",
+      "key": "kospi_realized_vol_20d_pct",
+      "label": "KOSPI realized vol",
+      "source": "Yahoo Finance derived proxy"
+    },
+    {
+      "category": "Macro pressure",
+      "description": "Won weakness can tighten imported inflation and policy pressure.",
+      "format": "number",
+      "key": "usdkrw_close",
+      "label": "USD/KRW",
+      "source": "Yahoo Finance"
+    },
+    {
+      "category": "Tradeable proxy",
+      "description": "US-listed Korea equity proxy.",
+      "format": "usd",
+      "key": "ewy_close",
+      "label": "EWY",
+      "source": "Yahoo Finance"
+    },
+    {
+      "category": "Leveraged ETF amplifier",
+      "description": "Daily traded value proxy for single-stock leveraged ETF activity.",
+      "format": "krw_trn",
+      "key": "leveraged_etf_traded_value_krw",
+      "label": "Samsung + Hynix 2x ETF turnover",
+      "source": "Yahoo Finance derived from price x volume"
+    }
+  ],
+  "notes": [
+    "KOFIA/FSS direct leverage series require a Korean public-data service key for full daily backfill.",
+    "KRX public endpoints provide current flow snapshots; this dashboard persists those daily once fetched.",
+    "Official VKOSPI and KOSPI 200 futures price histories need a KRX Data/authorized feed. KOSPI 20d realized volatility is shown as a fallback stress proxy."
+  ],
+  "risk": {
+    "drivers": [
+      {
+        "detail": "CD(91d) is 0.41pp above BOK base rate.",
+        "label": "Funding spread elevated",
+        "points": 20
+      },
+      {
+        "detail": "KOSPI is -20.5% below its since-May high.",
+        "label": "Bear-market drawdown",
+        "points": 20
+      },
+      {
+        "detail": "20d realized KOSPI vol is 73.0%.",
+        "label": "Volatility stress",
+        "points": 15
+      }
+    ],
+    "level": "High",
+    "score": 55
+  },
+  "series": {
+    "bok_base_rate_pct": [
+      {
+        "date": "2026-07-01",
+        "value": 2.5
+      },
+      {
+        "date": "2026-07-02",
+        "value": 2.5
+      },
+      {
+        "date": "2026-07-03",
+        "value": 2.5
+      },
+      {
+        "date": "2026-07-04",
+        "value": 2.5
+      },
+      {
+        "date": "2026-07-05",
+        "value": 2.5
+      },
+      {
+        "date": "2026-07-06",
+        "value": 2.5
+      }
+    ],
+    "cd91_pct": [
+      {
+        "date": "2026-07-01",
+        "value": 2.92
+      },
+      {
+        "date": "2026-07-02",
+        "value": 2.92
+      },
+      {
+        "date": "2026-07-03",
+        "value": 2.92
+      },
+      {
+        "date": "2026-07-06",
+        "value": 2.92
+      },
+      {
+        "date": "2026-07-07",
+        "value": 2.91
+      },
+      {
+        "date": "2026-07-08",
+        "value": 2.91
+      }
+    ],
+    "cd_bok_spread_pct_pt": [
+      {
+        "date": "2026-07-01",
+        "value": 0.41999999999999993
+      },
+      {
+        "date": "2026-07-02",
+        "value": 0.41999999999999993
+      },
+      {
+        "date": "2026-07-03",
+        "value": 0.41999999999999993
+      },
+      {
+        "date": "2026-07-06",
+        "value": 0.41999999999999993
+      },
+      {
+        "date": "2026-07-07",
+        "value": 0.41000000000000014
+      },
+      {
+        "date": "2026-07-08",
+        "value": 0.41000000000000014
+      }
+    ],
+    "ewy_close": [
+      {
+        "date": "2026-05-01",
+        "value": 162.0
+      },
+      {
+        "date": "2026-05-04",
+        "value": 163.58999633789062
+      },
+      {
+        "date": "2026-05-05",
+        "value": 173.47000122070312
+      },
+      {
+        "date": "2026-05-06",
+        "value": 181.97999572753906
+      },
+      {
+        "date": "2026-05-07",
+        "value": 176.75
+      },
+      {
+        "date": "2026-05-08",
+        "value": 190.1999969482422
+      },
+      {
+        "date": "2026-05-11",
+        "value": 192.85000610351562
+      },
+      {
+        "date": "2026-05-12",
+        "value": 178.5
+      },
+      {
+        "date": "2026-05-13",
+        "value": 188.6300048828125
+      },
+      {
+        "date": "2026-05-14",
+        "value": 190.52000427246094
+      },
+      {
+        "date": "2026-05-15",
+        "value": 178.86000061035156
+      },
+      {
+        "date": "2026-05-18",
+        "value": 176.10000610351562
+      },
+      {
+        "date": "2026-05-19",
+        "value": 174.02000427246094
+      },
+      {
+        "date": "2026-05-20",
+        "value": 180.11000061035156
+      },
+      {
+        "date": "2026-05-21",
+        "value": 186.4199981689453
+      },
+      {
+        "date": "2026-05-22",
+        "value": 182.02999877929688
+      },
+      {
+        "date": "2026-05-26",
+        "value": 200.64999389648438
+      },
+      {
+        "date": "2026-05-27",
+        "value": 198.2899932861328
+      },
+      {
+        "date": "2026-05-28",
+        "value": 206.41000366210938
+      },
+      {
+        "date": "2026-05-29",
+        "value": 205.8300018310547
+      },
+      {
+        "date": "2026-06-01",
+        "value": 216.6999969482422
+      },
+      {
+        "date": "2026-06-02",
+        "value": 214.52999877929688
+      },
+      {
+        "date": "2026-06-03",
+        "value": 212.9600067138672
+      },
+      {
+        "date": "2026-06-04",
+        "value": 203.97000122070312
+      },
+      {
+        "date": "2026-06-05",
+        "value": 175.19000244140625
+      },
+      {
+        "date": "2026-06-08",
+        "value": 185.63999938964844
+      },
+      {
+        "date": "2026-06-09",
+        "value": 184.0500030517578
+      },
+      {
+        "date": "2026-06-10",
+        "value": 178.4499969482422
+      },
+      {
+        "date": "2026-06-11",
+        "value": 198.94000244140625
+      },
+      {
+        "date": "2026-06-12",
+        "value": 197.4499969482422
+      },
+      {
+        "date": "2026-06-15",
+        "value": 211.4499969482422
+      },
+      {
+        "date": "2026-06-16",
+        "value": 205.91000366210938
+      },
+      {
+        "date": "2026-06-17",
+        "value": 205.0800018310547
+      },
+      {
+        "date": "2026-06-18",
+        "value": 219.1999969482422
+      },
+      {
+        "date": "2026-06-22",
+        "value": 219.02000427246094
+      },
+      {
+        "date": "2026-06-23",
+        "value": 192.1999969482422
+      },
+      {
+        "date": "2026-06-24",
+        "value": 197.25999450683594
+      },
+      {
+        "date": "2026-06-25",
+        "value": 205.0
+      },
+      {
+        "date": "2026-06-26",
+        "value": 197.27999877929688
+      },
+      {
+        "date": "2026-06-29",
+        "value": 197.5
+      },
+      {
+        "date": "2026-06-30",
+        "value": 201.89999389648438
+      },
+      {
+        "date": "2026-07-01",
+        "value": 185.5
+      },
+      {
+        "date": "2026-07-02",
+        "value": 180.13999938964844
+      },
+      {
+        "date": "2026-07-06",
+        "value": 189.85000610351562
+      },
+      {
+        "date": "2026-07-07",
+        "value": 181.2899932861328
+      }
+    ],
+    "ewy_volume": [
+      {
+        "date": "2026-05-01",
+        "value": 9840000.0
+      },
+      {
+        "date": "2026-05-04",
+        "value": 14601600.0
+      },
+      {
+        "date": "2026-05-05",
+        "value": 21110400.0
+      },
+      {
+        "date": "2026-05-06",
+        "value": 21163400.0
+      },
+      {
+        "date": "2026-05-07",
+        "value": 17754700.0
+      },
+      {
+        "date": "2026-05-08",
+        "value": 21526200.0
+      },
+      {
+        "date": "2026-05-11",
+        "value": 17208300.0
+      },
+      {
+        "date": "2026-05-12",
+        "value": 39313500.0
+      },
+      {
+        "date": "2026-05-13",
+        "value": 18868400.0
+      },
+      {
+        "date": "2026-05-14",
+        "value": 10027400.0
+      },
+      {
+        "date": "2026-05-15",
+        "value": 21737600.0
+      },
+      {
+        "date": "2026-05-18",
+        "value": 17191400.0
+      },
+      {
+        "date": "2026-05-19",
+        "value": 17827400.0
+      },
+      {
+        "date": "2026-05-20",
+        "value": 16532500.0
+      },
+      {
+        "date": "2026-05-21",
+        "value": 20545000.0
+      },
+      {
+        "date": "2026-05-22",
+        "value": 11829300.0
+      },
+      {
+        "date": "2026-05-26",
+        "value": 21215900.0
+      },
+      {
+        "date": "2026-05-27",
+        "value": 16780900.0
+      },
+      {
+        "date": "2026-05-28",
+        "value": 17578300.0
+      },
+      {
+        "date": "2026-05-29",
+        "value": 10494400.0
+      },
+      {
+        "date": "2026-06-01",
+        "value": 19082200.0
+      },
+      {
+        "date": "2026-06-02",
+        "value": 16543800.0
+      },
+      {
+        "date": "2026-06-03",
+        "value": 13981600.0
+      },
+      {
+        "date": "2026-06-04",
+        "value": 17900400.0
+      },
+      {
+        "date": "2026-06-05",
+        "value": 49401200.0
+      },
+      {
+        "date": "2026-06-08",
+        "value": 30723400.0
+      },
+      {
+        "date": "2026-06-09",
+        "value": 32951600.0
+      },
+      {
+        "date": "2026-06-10",
+        "value": 19822900.0
+      },
+      {
+        "date": "2026-06-11",
+        "value": 29533900.0
+      },
+      {
+        "date": "2026-06-12",
+        "value": 17164800.0
+      },
+      {
+        "date": "2026-06-15",
+        "value": 19500100.0
+      },
+      {
+        "date": "2026-06-16",
+        "value": 19036100.0
+      },
+      {
+        "date": "2026-06-17",
+        "value": 16255300.0
+      },
+      {
+        "date": "2026-06-18",
+        "value": 18398500.0
+      },
+      {
+        "date": "2026-06-22",
+        "value": 10772900.0
+      },
+      {
+        "date": "2026-06-23",
+        "value": 43444500.0
+      },
+      {
+        "date": "2026-06-24",
+        "value": 21161600.0
+      },
+      {
+        "date": "2026-06-25",
+        "value": 20944900.0
+      },
+      {
+        "date": "2026-06-26",
+        "value": 17108200.0
+      },
+      {
+        "date": "2026-06-29",
+        "value": 13495700.0
+      },
+      {
+        "date": "2026-06-30",
+        "value": 16575600.0
+      },
+      {
+        "date": "2026-07-01",
+        "value": 28567200.0
+      },
+      {
+        "date": "2026-07-02",
+        "value": 31638400.0
+      },
+      {
+        "date": "2026-07-06",
+        "value": 16759200.0
+      },
+      {
+        "date": "2026-07-07",
+        "value": 23594600.0
+      }
+    ],
+    "forced_sales_krw": [],
+    "hynix_close": [
+      {
+        "date": "2026-05-04",
+        "value": 1447000.0
+      },
+      {
+        "date": "2026-05-06",
+        "value": 1601000.0
+      },
+      {
+        "date": "2026-05-07",
+        "value": 1654000.0
+      },
+      {
+        "date": "2026-05-08",
+        "value": 1686000.0
+      },
+      {
+        "date": "2026-05-11",
+        "value": 1880000.0
+      },
+      {
+        "date": "2026-05-12",
+        "value": 1835000.0
+      },
+      {
+        "date": "2026-05-13",
+        "value": 1976000.0
+      },
+      {
+        "date": "2026-05-14",
+        "value": 1970000.0
+      },
+      {
+        "date": "2026-05-15",
+        "value": 1819000.0
+      },
+      {
+        "date": "2026-05-18",
+        "value": 1840000.0
+      },
+      {
+        "date": "2026-05-19",
+        "value": 1745000.0
+      },
+      {
+        "date": "2026-05-20",
+        "value": 1745000.0
+      },
+      {
+        "date": "2026-05-21",
+        "value": 1940000.0
+      },
+      {
+        "date": "2026-05-22",
+        "value": 1941000.0
+      },
+      {
+        "date": "2026-05-26",
+        "value": 2052000.0
+      },
+      {
+        "date": "2026-05-27",
+        "value": 2243000.0
+      },
+      {
+        "date": "2026-05-28",
+        "value": 2289000.0
+      },
+      {
+        "date": "2026-05-29",
+        "value": 2333000.0
+      },
+      {
+        "date": "2026-06-01",
+        "value": 2363000.0
+      },
+      {
+        "date": "2026-06-02",
+        "value": 2360000.0
+      },
+      {
+        "date": "2026-06-04",
+        "value": 2298000.0
+      },
+      {
+        "date": "2026-06-05",
+        "value": 2070000.0
+      },
+      {
+        "date": "2026-06-08",
+        "value": 1911000.0
+      },
+      {
+        "date": "2026-06-09",
+        "value": 2215000.0
+      },
+      {
+        "date": "2026-06-10",
+        "value": 2048000.0
+      },
+      {
+        "date": "2026-06-11",
+        "value": 2101000.0
+      },
+      {
+        "date": "2026-06-12",
+        "value": 2150000.0
+      },
+      {
+        "date": "2026-06-15",
+        "value": 2288000.0
+      },
+      {
+        "date": "2026-06-16",
+        "value": 2382000.0
+      },
+      {
+        "date": "2026-06-17",
+        "value": 2521000.0
+      },
+      {
+        "date": "2026-06-18",
+        "value": 2685000.0
+      },
+      {
+        "date": "2026-06-19",
+        "value": 2764000.0
+      },
+      {
+        "date": "2026-06-22",
+        "value": 2919000.0
+      },
+      {
+        "date": "2026-06-23",
+        "value": 2555000.0
+      },
+      {
+        "date": "2026-06-24",
+        "value": 2621000.0
+      },
+      {
+        "date": "2026-06-25",
+        "value": 2917000.0
+      },
+      {
+        "date": "2026-06-26",
+        "value": 2673000.0
+      },
+      {
+        "date": "2026-06-29",
+        "value": 2628000.0
+      },
+      {
+        "date": "2026-06-30",
+        "value": 2650000.0
+      },
+      {
+        "date": "2026-07-01",
+        "value": 2560000.0
+      },
+      {
+        "date": "2026-07-02",
+        "value": 2187000.0
+      },
+      {
+        "date": "2026-07-03",
+        "value": 2425000.0
+      },
+      {
+        "date": "2026-07-06",
+        "value": 2343000.0
+      },
+      {
+        "date": "2026-07-07",
+        "value": 2201000.0
+      },
+      {
+        "date": "2026-07-08",
+        "value": 2076000.0
+      }
+    ],
+    "hynix_leverage_etf_close": [
+      {
+        "date": "2026-05-27",
+        "value": 27775.0
+      },
+      {
+        "date": "2026-05-28",
+        "value": 28970.0
+      },
+      {
+        "date": "2026-05-29",
+        "value": 29895.0
+      },
+      {
+        "date": "2026-06-01",
+        "value": 31100.0
+      },
+      {
+        "date": "2026-06-02",
+        "value": 30545.0
+      },
+      {
+        "date": "2026-06-04",
+        "value": 29055.0
+      },
+      {
+        "date": "2026-06-05",
+        "value": 23160.0
+      },
+      {
+        "date": "2026-06-08",
+        "value": 19605.0
+      },
+      {
+        "date": "2026-06-09",
+        "value": 25765.0
+      },
+      {
+        "date": "2026-06-10",
+        "value": 21740.0
+      },
+      {
+        "date": "2026-06-11",
+        "value": 22985.0
+      },
+      {
+        "date": "2026-06-12",
+        "value": 23920.0
+      },
+      {
+        "date": "2026-06-15",
+        "value": 26810.0
+      },
+      {
+        "date": "2026-06-16",
+        "value": 29190.0
+      },
+      {
+        "date": "2026-06-17",
+        "value": 32660.0
+      },
+      {
+        "date": "2026-06-18",
+        "value": 36900.0
+      },
+      {
+        "date": "2026-06-19",
+        "value": 39200.0
+      },
+      {
+        "date": "2026-06-22",
+        "value": 44000.0
+      },
+      {
+        "date": "2026-06-23",
+        "value": 32790.0
+      },
+      {
+        "date": "2026-06-24",
+        "value": 33210.0
+      },
+      {
+        "date": "2026-06-25",
+        "value": 41785.0
+      },
+      {
+        "date": "2026-06-26",
+        "value": 34545.0
+      },
+      {
+        "date": "2026-06-29",
+        "value": 33660.0
+      },
+      {
+        "date": "2026-06-30",
+        "value": 34505.0
+      },
+      {
+        "date": "2026-07-01",
+        "value": 31875.0
+      },
+      {
+        "date": "2026-07-02",
+        "value": 22035.0
+      },
+      {
+        "date": "2026-07-03",
+        "value": 27400.0
+      },
+      {
+        "date": "2026-07-06",
+        "value": 25310.0
+      },
+      {
+        "date": "2026-07-07",
+        "value": 22130.0
+      },
+      {
+        "date": "2026-07-08",
+        "value": 19635.0
+      }
+    ],
+    "hynix_leverage_etf_traded_value_krw": [
+      {
+        "date": "2026-05-27",
+        "value": 4232051752500.0
+      },
+      {
+        "date": "2026-05-28",
+        "value": 3979333685000.0
+      },
+      {
+        "date": "2026-05-29",
+        "value": 2737718331000.0
+      },
+      {
+        "date": "2026-06-01",
+        "value": 2844944341000.0
+      },
+      {
+        "date": "2026-06-02",
+        "value": 3057166578500.0
+      },
+      {
+        "date": "2026-06-04",
+        "value": 1282398501150.0
+      },
+      {
+        "date": "2026-06-05",
+        "value": 2384257152000.0
+      },
+      {
+        "date": "2026-06-08",
+        "value": 2188995980925.0
+      },
+      {
+        "date": "2026-06-09",
+        "value": 2748512344530.0
+      },
+      {
+        "date": "2026-06-10",
+        "value": 2133754694600.0
+      },
+      {
+        "date": "2026-06-11",
+        "value": 2819379174500.0
+      },
+      {
+        "date": "2026-06-12",
+        "value": 2262807362400.0
+      },
+      {
+        "date": "2026-06-15",
+        "value": 1791058136000.0
+      },
+      {
+        "date": "2026-06-16",
+        "value": 2652105029700.0
+      },
+      {
+        "date": "2026-06-17",
+        "value": 3626308386000.0
+      },
+      {
+        "date": "2026-06-18",
+        "value": 5269866120000.0
+      },
+      {
+        "date": "2026-06-19",
+        "value": 6841140880000.0
+      },
+      {
+        "date": "2026-06-22",
+        "value": 6048767384000.0
+      },
+      {
+        "date": "2026-06-23",
+        "value": 6390394505220.0
+      },
+      {
+        "date": "2026-06-24",
+        "value": 7074776912040.0
+      },
+      {
+        "date": "2026-06-25",
+        "value": 6933242563150.0
+      },
+      {
+        "date": "2026-06-26",
+        "value": 6041544857670.0
+      },
+      {
+        "date": "2026-06-29",
+        "value": 4880168037360.0
+      },
+      {
+        "date": "2026-06-30",
+        "value": 4333282786495.0
+      },
+      {
+        "date": "2026-07-01",
+        "value": 3977664388125.0
+      },
+      {
+        "date": "2026-07-02",
+        "value": 4288835395455.0
+      },
+      {
+        "date": "2026-07-03",
+        "value": 7318083790000.0
+      },
+      {
+        "date": "2026-07-06",
+        "value": 4001277869590.0
+      },
+      {
+        "date": "2026-07-07",
+        "value": 4594848713280.0
+      },
+      {
+        "date": "2026-07-08",
+        "value": 5228991862710.0
+      }
+    ],
+    "hynix_leverage_etf_volume": [
+      {
+        "date": "2026-05-27",
+        "value": 152369100.0
+      },
+      {
+        "date": "2026-05-28",
+        "value": 137360500.0
+      },
+      {
+        "date": "2026-05-29",
+        "value": 91577800.0
+      },
+      {
+        "date": "2026-06-01",
+        "value": 91477310.0
+      },
+      {
+        "date": "2026-06-02",
+        "value": 100087300.0
+      },
+      {
+        "date": "2026-06-04",
+        "value": 44136930.0
+      },
+      {
+        "date": "2026-06-05",
+        "value": 102947200.0
+      },
+      {
+        "date": "2026-06-08",
+        "value": 111654985.0
+      },
+      {
+        "date": "2026-06-09",
+        "value": 106676202.0
+      },
+      {
+        "date": "2026-06-10",
+        "value": 98148790.0
+      },
+      {
+        "date": "2026-06-11",
+        "value": 122661700.0
+      },
+      {
+        "date": "2026-06-12",
+        "value": 94598970.0
+      },
+      {
+        "date": "2026-06-15",
+        "value": 66805600.0
+      },
+      {
+        "date": "2026-06-16",
+        "value": 90856630.0
+      },
+      {
+        "date": "2026-06-17",
+        "value": 111032100.0
+      },
+      {
+        "date": "2026-06-18",
+        "value": 142814800.0
+      },
+      {
+        "date": "2026-06-19",
+        "value": 174518900.0
+      },
+      {
+        "date": "2026-06-22",
+        "value": 137471986.0
+      },
+      {
+        "date": "2026-06-23",
+        "value": 194888518.0
+      },
+      {
+        "date": "2026-06-24",
+        "value": 213031524.0
+      },
+      {
+        "date": "2026-06-25",
+        "value": 165926590.0
+      },
+      {
+        "date": "2026-06-26",
+        "value": 174889126.0
+      },
+      {
+        "date": "2026-06-29",
+        "value": 144984196.0
+      },
+      {
+        "date": "2026-06-30",
+        "value": 125584199.0
+      },
+      {
+        "date": "2026-07-01",
+        "value": 124789471.0
+      },
+      {
+        "date": "2026-07-02",
+        "value": 194637413.0
+      },
+      {
+        "date": "2026-07-03",
+        "value": 267083350.0
+      },
+      {
+        "date": "2026-07-06",
+        "value": 158090789.0
+      },
+      {
+        "date": "2026-07-07",
+        "value": 207629856.0
+      },
+      {
+        "date": "2026-07-08",
+        "value": 266309746.0
+      }
+    ],
+    "hynix_traded_value_krw": [
+      {
+        "date": "2026-05-04",
+        "value": 8358799527000.0
+      },
+      {
+        "date": "2026-05-06",
+        "value": 10617726334000.0
+      },
+      {
+        "date": "2026-05-07",
+        "value": 9693462172000.0
+      },
+      {
+        "date": "2026-05-08",
+        "value": 7212854682000.0
+      },
+      {
+        "date": "2026-05-11",
+        "value": 13974113320000.0
+      },
+      {
+        "date": "2026-05-12",
+        "value": 16809688155000.0
+      },
+      {
+        "date": "2026-05-13",
+        "value": 14082795896000.0
+      },
+      {
+        "date": "2026-05-14",
+        "value": 11898933960000.0
+      },
+      {
+        "date": "2026-05-15",
+        "value": 13615638827000.0
+      },
+      {
+        "date": "2026-05-18",
+        "value": 11926158720000.0
+      },
+      {
+        "date": "2026-05-19",
+        "value": 7984866975000.0
+      },
+      {
+        "date": "2026-05-20",
+        "value": 9658789635000.0
+      },
+      {
+        "date": "2026-05-21",
+        "value": 9887578600000.0
+      },
+      {
+        "date": "2026-05-22",
+        "value": 6085403790000.0
+      },
+      {
+        "date": "2026-05-26",
+        "value": 10062168732000.0
+      },
+      {
+        "date": "2026-05-27",
+        "value": 16925191269000.0
+      },
+      {
+        "date": "2026-05-28",
+        "value": 14259323211000.0
+      },
+      {
+        "date": "2026-05-29",
+        "value": 19872524329000.0
+      },
+      {
+        "date": "2026-06-01",
+        "value": 13239645611000.0
+      },
+      {
+        "date": "2026-06-02",
+        "value": 13775829760000.0
+      },
+      {
+        "date": "2026-06-04",
+        "value": 9056571966000.0
+      },
+      {
+        "date": "2026-06-05",
+        "value": 11962014570000.0
+      },
+      {
+        "date": "2026-06-08",
+        "value": 12633301863000.0
+      },
+      {
+        "date": "2026-06-09",
+        "value": 13019856385000.0
+      },
+      {
+        "date": "2026-06-10",
+        "value": 309248000.0
+      },
+      {
+        "date": "2026-06-11",
+        "value": 13920753275000.0
+      },
+      {
+        "date": "2026-06-12",
+        "value": 11365794400000.0
+      },
+      {
+        "date": "2026-06-15",
+        "value": 8861218080000.0
+      },
+      {
+        "date": "2026-06-16",
+        "value": 8681125158000.0
+      },
+      {
+        "date": "2026-06-17",
+        "value": 10033605210000.0
+      },
+      {
+        "date": "2026-06-18",
+        "value": 15596534025000.0
+      },
+      {
+        "date": "2026-06-19",
+        "value": 20669730980000.0
+      },
+      {
+        "date": "2026-06-22",
+        "value": 15119821605000.0
+      },
+      {
+        "date": "2026-06-23",
+        "value": 20568605925000.0
+      },
+      {
+        "date": "2026-06-24",
+        "value": 19625827836000.0
+      },
+      {
+        "date": "2026-06-25",
+        "value": 19808918201000.0
+      },
+      {
+        "date": "2026-06-26",
+        "value": 19960606116000.0
+      },
+      {
+        "date": "2026-06-29",
+        "value": 13712346864000.0
+      },
+      {
+        "date": "2026-06-30",
+        "value": 13539414450000.0
+      },
+      {
+        "date": "2026-07-01",
+        "value": 10949826560000.0
+      },
+      {
+        "date": "2026-07-02",
+        "value": 16809093918000.0
+      },
+      {
+        "date": "2026-07-03",
+        "value": 19363416450000.0
+      },
+      {
+        "date": "2026-07-06",
+        "value": 9923448480000.0
+      },
+      {
+        "date": "2026-07-07",
+        "value": 13978980195000.0
+      },
+      {
+        "date": "2026-07-08",
+        "value": 15577743480000.0
+      }
+    ],
+    "hynix_volume": [
+      {
+        "date": "2026-05-04",
+        "value": 5776641.0
+      },
+      {
+        "date": "2026-05-06",
+        "value": 6631934.0
+      },
+      {
+        "date": "2026-05-07",
+        "value": 5860618.0
+      },
+      {
+        "date": "2026-05-08",
+        "value": 4278087.0
+      },
+      {
+        "date": "2026-05-11",
+        "value": 7433039.0
+      },
+      {
+        "date": "2026-05-12",
+        "value": 9160593.0
+      },
+      {
+        "date": "2026-05-13",
+        "value": 7126921.0
+      },
+      {
+        "date": "2026-05-14",
+        "value": 6040068.0
+      },
+      {
+        "date": "2026-05-15",
+        "value": 7485233.0
+      },
+      {
+        "date": "2026-05-18",
+        "value": 6481608.0
+      },
+      {
+        "date": "2026-05-19",
+        "value": 4575855.0
+      },
+      {
+        "date": "2026-05-20",
+        "value": 5535123.0
+      },
+      {
+        "date": "2026-05-21",
+        "value": 5096690.0
+      },
+      {
+        "date": "2026-05-22",
+        "value": 3135190.0
+      },
+      {
+        "date": "2026-05-26",
+        "value": 4903591.0
+      },
+      {
+        "date": "2026-05-27",
+        "value": 7545783.0
+      },
+      {
+        "date": "2026-05-28",
+        "value": 6229499.0
+      },
+      {
+        "date": "2026-05-29",
+        "value": 8518013.0
+      },
+      {
+        "date": "2026-06-01",
+        "value": 5602897.0
+      },
+      {
+        "date": "2026-06-02",
+        "value": 5837216.0
+      },
+      {
+        "date": "2026-06-04",
+        "value": 3941067.0
+      },
+      {
+        "date": "2026-06-05",
+        "value": 5778751.0
+      },
+      {
+        "date": "2026-06-08",
+        "value": 6610833.0
+      },
+      {
+        "date": "2026-06-09",
+        "value": 5878039.0
+      },
+      {
+        "date": "2026-06-10",
+        "value": 151.0
+      },
+      {
+        "date": "2026-06-11",
+        "value": 6625775.0
+      },
+      {
+        "date": "2026-06-12",
+        "value": 5286416.0
+      },
+      {
+        "date": "2026-06-15",
+        "value": 3872910.0
+      },
+      {
+        "date": "2026-06-16",
+        "value": 3644469.0
+      },
+      {
+        "date": "2026-06-17",
+        "value": 3980010.0
+      },
+      {
+        "date": "2026-06-18",
+        "value": 5808765.0
+      },
+      {
+        "date": "2026-06-19",
+        "value": 7478195.0
+      },
+      {
+        "date": "2026-06-22",
+        "value": 5179795.0
+      },
+      {
+        "date": "2026-06-23",
+        "value": 8050335.0
+      },
+      {
+        "date": "2026-06-24",
+        "value": 7487916.0
+      },
+      {
+        "date": "2026-06-25",
+        "value": 6790853.0
+      },
+      {
+        "date": "2026-06-26",
+        "value": 7467492.0
+      },
+      {
+        "date": "2026-06-29",
+        "value": 5217788.0
+      },
+      {
+        "date": "2026-06-30",
+        "value": 5109213.0
+      },
+      {
+        "date": "2026-07-01",
+        "value": 4277276.0
+      },
+      {
+        "date": "2026-07-02",
+        "value": 7685914.0
+      },
+      {
+        "date": "2026-07-03",
+        "value": 7984914.0
+      },
+      {
+        "date": "2026-07-06",
+        "value": 4235360.0
+      },
+      {
+        "date": "2026-07-07",
+        "value": 6351195.0
+      },
+      {
+        "date": "2026-07-08",
+        "value": 7503730.0
+      }
+    ],
+    "investor_deposits_krw": [],
+    "kosdaq_close": [
+      {
+        "date": "2026-05-04",
+        "value": 1213.739990234375
+      },
+      {
+        "date": "2026-05-06",
+        "value": 1210.1700439453125
+      },
+      {
+        "date": "2026-05-07",
+        "value": 1199.1800537109375
+      },
+      {
+        "date": "2026-05-08",
+        "value": 1207.719970703125
+      },
+      {
+        "date": "2026-05-11",
+        "value": 1207.3399658203125
+      },
+      {
+        "date": "2026-05-12",
+        "value": 1179.2900390625
+      },
+      {
+        "date": "2026-05-13",
+        "value": 1176.9300537109375
+      },
+      {
+        "date": "2026-05-14",
+        "value": 1191.0899658203125
+      },
+      {
+        "date": "2026-05-15",
+        "value": 1129.8199462890625
+      },
+      {
+        "date": "2026-05-18",
+        "value": 1111.0899658203125
+      },
+      {
+        "date": "2026-05-19",
+        "value": 1084.3599853515625
+      },
+      {
+        "date": "2026-05-20",
+        "value": 1056.0699462890625
+      },
+      {
+        "date": "2026-05-21",
+        "value": 1105.969970703125
+      },
+      {
+        "date": "2026-05-22",
+        "value": 1161.1300048828125
+      },
+      {
+        "date": "2026-05-26",
+        "value": 1172.52001953125
+      },
+      {
+        "date": "2026-05-27",
+        "value": 1133.1300048828125
+      },
+      {
+        "date": "2026-05-28",
+        "value": 1104.3599853515625
+      },
+      {
+        "date": "2026-05-29",
+        "value": 1074.800048828125
+      },
+      {
+        "date": "2026-06-01",
+        "value": 1050.030029296875
+      },
+      {
+        "date": "2026-06-02",
+        "value": 1026.030029296875
+      },
+      {
+        "date": "2026-06-04",
+        "value": 1049.72998046875
+      },
+      {
+        "date": "2026-06-05",
+        "value": 1002.4400024414062
+      },
+      {
+        "date": "2026-06-08",
+        "value": 911.3900146484375
+      },
+      {
+        "date": "2026-06-09",
+        "value": 967.8099975585938
+      },
+      {
+        "date": "2026-06-10",
+        "value": 951.6300048828125
+      },
+      {
+        "date": "2026-06-11",
+        "value": 996.9299926757812
+      },
+      {
+        "date": "2026-06-12",
+        "value": 1029.050048828125
+      },
+      {
+        "date": "2026-06-15",
+        "value": 1034.030029296875
+      },
+      {
+        "date": "2026-06-16",
+        "value": 1018.6799926757812
+      },
+      {
+        "date": "2026-06-17",
+        "value": 1031.9599609375
+      },
+      {
+        "date": "2026-06-18",
+        "value": 1000.9299926757812
+      },
+      {
+        "date": "2026-06-19",
+        "value": 966.5900268554688
+      },
+      {
+        "date": "2026-06-22",
+        "value": 968.4000244140625
+      },
+      {
+        "date": "2026-06-23",
+        "value": 891.52001953125
+      },
+      {
+        "date": "2026-06-24",
+        "value": 909.3099975585938
+      },
+      {
+        "date": "2026-06-25",
+        "value": 887.8099975585938
+      },
+      {
+        "date": "2026-06-26",
+        "value": 851.3699951171875
+      },
+      {
+        "date": "2026-06-29",
+        "value": 920.5700073242188
+      },
+      {
+        "date": "2026-06-30",
+        "value": 916.1799926757812
+      },
+      {
+        "date": "2026-07-01",
+        "value": 929.3499755859375
+      },
+      {
+        "date": "2026-07-02",
+        "value": 866.719970703125
+      },
+      {
+        "date": "2026-07-03",
+        "value": 868.4099731445312
+      },
+      {
+        "date": "2026-07-06",
+        "value": 847.0700073242188
+      },
+      {
+        "date": "2026-07-07",
+        "value": 831.22998046875
+      },
+      {
+        "date": "2026-07-08",
+        "value": 785.0
+      }
+    ],
+    "kosdaq_traded_value_krw": [
+      {
+        "date": "2026-05-04",
+        "value": 1427479602.5146484
+      },
+      {
+        "date": "2026-05-06",
+        "value": 1694238.0615234375
+      },
+      {
+        "date": "2026-05-07",
+        "value": 1678852.0751953125
+      },
+      {
+        "date": "2026-05-08",
+        "value": 1449263.96484375
+      },
+      {
+        "date": "2026-05-11",
+        "value": 1569541.9555664062
+      },
+      {
+        "date": "2026-05-12",
+        "value": 1768935.05859375
+      },
+      {
+        "date": "2026-05-13",
+        "value": 1294623.0590820312
+      },
+      {
+        "date": "2026-05-14",
+        "value": 1191089.9658203125
+      },
+      {
+        "date": "2026-05-15",
+        "value": 1242801.9409179688
+      },
+      {
+        "date": "2026-05-18",
+        "value": 1061424244.3481445
+      },
+      {
+        "date": "2026-05-19",
+        "value": 1196916551.8310547
+      },
+      {
+        "date": "2026-05-20",
+        "value": 1295903431.0913086
+      },
+      {
+        "date": "2026-05-21",
+        "value": 1024238789.8681641
+      },
+      {
+        "date": "2026-05-22",
+        "value": 1193525532.019043
+      },
+      {
+        "date": "2026-05-26",
+        "value": 1391077751.171875
+      },
+      {
+        "date": "2026-05-27",
+        "value": 1392616776.0009766
+      },
+      {
+        "date": "2026-05-28",
+        "value": 1079732757.6782227
+      },
+      {
+        "date": "2026-05-29",
+        "value": 919813881.7871094
+      },
+      {
+        "date": "2026-06-01",
+        "value": 876775074.4628906
+      },
+      {
+        "date": "2026-06-02",
+        "value": 794968066.6992188
+      },
+      {
+        "date": "2026-06-04",
+        "value": 653981777.8320312
+      },
+      {
+        "date": "2026-06-05",
+        "value": 726167537.7685547
+      },
+      {
+        "date": "2026-06-08",
+        "value": 569071925.1464844
+      },
+      {
+        "date": "2026-06-09",
+        "value": 600332541.4855957
+      },
+      {
+        "date": "2026-06-10",
+        "value": 584871801.0009766
+      },
+      {
+        "date": "2026-06-11",
+        "value": 633349624.3469238
+      },
+      {
+        "date": "2026-06-12",
+        "value": 663634376.4892578
+      },
+      {
+        "date": "2026-06-15",
+        "value": 580401055.4443359
+      },
+      {
+        "date": "2026-06-16",
+        "value": 632804011.4501953
+      },
+      {
+        "date": "2026-06-17",
+        "value": 589042745.703125
+      },
+      {
+        "date": "2026-06-18",
+        "value": 612368969.519043
+      },
+      {
+        "date": "2026-06-19",
+        "value": 853015698.6999512
+      },
+      {
+        "date": "2026-06-22",
+        "value": 611835135.4248047
+      },
+      {
+        "date": "2026-06-23",
+        "value": 710898063.5742188
+      },
+      {
+        "date": "2026-06-24",
+        "value": 585050052.4291992
+      },
+      {
+        "date": "2026-06-25",
+        "value": 567399369.4396973
+      },
+      {
+        "date": "2026-06-26",
+        "value": 620478452.4414062
+      },
+      {
+        "date": "2026-06-29",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-30",
+        "value": 605778211.1572266
+      },
+      {
+        "date": "2026-07-01",
+        "value": 558725205.3222656
+      },
+      {
+        "date": "2026-07-02",
+        "value": 485883215.5761719
+      },
+      {
+        "date": "2026-07-03",
+        "value": 522001234.85717773
+      },
+      {
+        "date": "2026-07-06",
+        "value": 453267160.91918945
+      },
+      {
+        "date": "2026-07-07",
+        "value": 451773494.3847656
+      },
+      {
+        "date": "2026-07-08",
+        "value": 448955630.0
+      }
+    ],
+    "kosdaq_volume": [
+      {
+        "date": "2026-05-04",
+        "value": 1176100.0
+      },
+      {
+        "date": "2026-05-06",
+        "value": 1400.0
+      },
+      {
+        "date": "2026-05-07",
+        "value": 1400.0
+      },
+      {
+        "date": "2026-05-08",
+        "value": 1200.0
+      },
+      {
+        "date": "2026-05-11",
+        "value": 1300.0
+      },
+      {
+        "date": "2026-05-12",
+        "value": 1500.0
+      },
+      {
+        "date": "2026-05-13",
+        "value": 1100.0
+      },
+      {
+        "date": "2026-05-14",
+        "value": 1000.0
+      },
+      {
+        "date": "2026-05-15",
+        "value": 1100.0
+      },
+      {
+        "date": "2026-05-18",
+        "value": 955300.0
+      },
+      {
+        "date": "2026-05-19",
+        "value": 1103800.0
+      },
+      {
+        "date": "2026-05-20",
+        "value": 1227100.0
+      },
+      {
+        "date": "2026-05-21",
+        "value": 926100.0
+      },
+      {
+        "date": "2026-05-22",
+        "value": 1027900.0
+      },
+      {
+        "date": "2026-05-26",
+        "value": 1186400.0
+      },
+      {
+        "date": "2026-05-27",
+        "value": 1229000.0
+      },
+      {
+        "date": "2026-05-28",
+        "value": 977700.0
+      },
+      {
+        "date": "2026-05-29",
+        "value": 855800.0
+      },
+      {
+        "date": "2026-06-01",
+        "value": 835000.0
+      },
+      {
+        "date": "2026-06-02",
+        "value": 774800.0
+      },
+      {
+        "date": "2026-06-04",
+        "value": 623000.0
+      },
+      {
+        "date": "2026-06-05",
+        "value": 724400.0
+      },
+      {
+        "date": "2026-06-08",
+        "value": 624400.0
+      },
+      {
+        "date": "2026-06-09",
+        "value": 620300.0
+      },
+      {
+        "date": "2026-06-10",
+        "value": 614600.0
+      },
+      {
+        "date": "2026-06-11",
+        "value": 635300.0
+      },
+      {
+        "date": "2026-06-12",
+        "value": 644900.0
+      },
+      {
+        "date": "2026-06-15",
+        "value": 561300.0
+      },
+      {
+        "date": "2026-06-16",
+        "value": 621200.0
+      },
+      {
+        "date": "2026-06-17",
+        "value": 570800.0
+      },
+      {
+        "date": "2026-06-18",
+        "value": 611800.0
+      },
+      {
+        "date": "2026-06-19",
+        "value": 882500.0
+      },
+      {
+        "date": "2026-06-22",
+        "value": 631800.0
+      },
+      {
+        "date": "2026-06-23",
+        "value": 797400.0
+      },
+      {
+        "date": "2026-06-24",
+        "value": 643400.0
+      },
+      {
+        "date": "2026-06-25",
+        "value": 639100.0
+      },
+      {
+        "date": "2026-06-26",
+        "value": 728800.0
+      },
+      {
+        "date": "2026-06-29",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-30",
+        "value": 661200.0
+      },
+      {
+        "date": "2026-07-01",
+        "value": 601200.0
+      },
+      {
+        "date": "2026-07-02",
+        "value": 560600.0
+      },
+      {
+        "date": "2026-07-03",
+        "value": 601100.0
+      },
+      {
+        "date": "2026-07-06",
+        "value": 535100.0
+      },
+      {
+        "date": "2026-07-07",
+        "value": 543500.0
+      },
+      {
+        "date": "2026-07-08",
+        "value": 571918.0
+      }
+    ],
+    "kospi200_close": [
+      {
+        "date": "2026-05-04",
+        "value": 1049.6600341796875
+      },
+      {
+        "date": "2026-05-06",
+        "value": 1129.6300048828125
+      },
+      {
+        "date": "2026-05-07",
+        "value": 1149.8599853515625
+      },
+      {
+        "date": "2026-05-08",
+        "value": 1151.1700439453125
+      },
+      {
+        "date": "2026-05-11",
+        "value": 1211.43994140625
+      },
+      {
+        "date": "2026-05-12",
+        "value": 1183.4100341796875
+      },
+      {
+        "date": "2026-05-13",
+        "value": 1220.1700439453125
+      },
+      {
+        "date": "2026-05-14",
+        "value": 1243.1700439453125
+      },
+      {
+        "date": "2026-05-15",
+        "value": 1162.3900146484375
+      },
+      {
+        "date": "2026-05-18",
+        "value": 1171.300048828125
+      },
+      {
+        "date": "2026-05-19",
+        "value": 1132.4200439453125
+      },
+      {
+        "date": "2026-05-20",
+        "value": 1125.510009765625
+      },
+      {
+        "date": "2026-05-21",
+        "value": 1225.219970703125
+      },
+      {
+        "date": "2026-05-22",
+        "value": 1226.030029296875
+      },
+      {
+        "date": "2026-05-26",
+        "value": 1260.530029296875
+      },
+      {
+        "date": "2026-05-27",
+        "value": 1298.8599853515625
+      },
+      {
+        "date": "2026-05-28",
+        "value": 1292.5699462890625
+      },
+      {
+        "date": "2026-05-29",
+        "value": 1342.8199462890625
+      },
+      {
+        "date": "2026-06-01",
+        "value": 1399.9100341796875
+      },
+      {
+        "date": "2026-06-02",
+        "value": 1407.22998046875
+      },
+      {
+        "date": "2026-06-04",
+        "value": 1379.56005859375
+      },
+      {
+        "date": "2026-06-05",
+        "value": 1297.02001953125
+      },
+      {
+        "date": "2026-06-08",
+        "value": 1186.5400390625
+      },
+      {
+        "date": "2026-06-09",
+        "value": 1293.4000244140625
+      },
+      {
+        "date": "2026-06-10",
+        "value": 1227.1199951171875
+      },
+      {
+        "date": "2026-06-11",
+        "value": 1231.5400390625
+      },
+      {
+        "date": "2026-06-12",
+        "value": 1291.3199462890625
+      },
+      {
+        "date": "2026-06-15",
+        "value": 1360.260009765625
+      },
+      {
+        "date": "2026-06-16",
+        "value": 1391.739990234375
+      },
+      {
+        "date": "2026-06-17",
+        "value": 1416.969970703125
+      },
+      {
+        "date": "2026-06-18",
+        "value": 1459.22998046875
+      },
+      {
+        "date": "2026-06-19",
+        "value": 1459.47998046875
+      },
+      {
+        "date": "2026-06-22",
+        "value": 1477.219970703125
+      },
+      {
+        "date": "2026-06-23",
+        "value": 1321.699951171875
+      },
+      {
+        "date": "2026-06-24",
+        "value": 1369.6199951171875
+      },
+      {
+        "date": "2026-06-25",
+        "value": 1454.1500244140625
+      },
+      {
+        "date": "2026-06-26",
+        "value": 1366.489990234375
+      },
+      {
+        "date": "2026-06-29",
+        "value": 1352.5400390625
+      },
+      {
+        "date": "2026-06-30",
+        "value": 1370.72998046875
+      },
+      {
+        "date": "2026-07-01",
+        "value": 1335.3599853515625
+      },
+      {
+        "date": "2026-07-02",
+        "value": 1219.6199951171875
+      },
+      {
+        "date": "2026-07-03",
+        "value": 1299.300048828125
+      },
+      {
+        "date": "2026-07-08",
+        "value": 1158.3699951171875
+      }
+    ],
+    "kospi200_traded_value_krw": [
+      {
+        "date": "2026-05-04",
+        "value": 361502915771.4844
+      },
+      {
+        "date": "2026-05-06",
+        "value": 487661273107.91016
+      },
+      {
+        "date": "2026-05-07",
+        "value": 350132365539.5508
+      },
+      {
+        "date": "2026-05-08",
+        "value": 256941153808.59375
+      },
+      {
+        "date": "2026-05-11",
+        "value": 429092027246.09375
+      },
+      {
+        "date": "2026-05-12",
+        "value": 399164204528.8086
+      },
+      {
+        "date": "2026-05-13",
+        "value": 301504017858.8867
+      },
+      {
+        "date": "2026-05-14",
+        "value": 388987906750.4883
+      },
+      {
+        "date": "2026-05-15",
+        "value": 418925361279.2969
+      },
+      {
+        "date": "2026-05-18",
+        "value": 262254080932.6172
+      },
+      {
+        "date": "2026-05-19",
+        "value": 241431953369.14062
+      },
+      {
+        "date": "2026-05-20",
+        "value": 223526287939.45312
+      },
+      {
+        "date": "2026-05-21",
+        "value": 265382645654.29688
+      },
+      {
+        "date": "2026-05-22",
+        "value": 203030572851.5625
+      },
+      {
+        "date": "2026-05-26",
+        "value": 249332839794.92188
+      },
+      {
+        "date": "2026-05-27",
+        "value": 367187717858.8867
+      },
+      {
+        "date": "2026-05-28",
+        "value": 303883194372.5586
+      },
+      {
+        "date": "2026-05-29",
+        "value": 585469496582.0312
+      },
+      {
+        "date": "2026-06-01",
+        "value": 474569501586.91406
+      },
+      {
+        "date": "2026-06-02",
+        "value": 448343471777.34375
+      },
+      {
+        "date": "2026-06-04",
+        "value": 266117135302.73438
+      },
+      {
+        "date": "2026-06-05",
+        "value": 258755493896.48438
+      },
+      {
+        "date": "2026-06-08",
+        "value": 238494547851.5625
+      },
+      {
+        "date": "2026-06-09",
+        "value": 265664365014.64844
+      },
+      {
+        "date": "2026-06-10",
+        "value": 243337895031.73828
+      },
+      {
+        "date": "2026-06-11",
+        "value": 265889494433.59375
+      },
+      {
+        "date": "2026-06-12",
+        "value": 322055194604.4922
+      },
+      {
+        "date": "2026-06-15",
+        "value": 377744204711.91406
+      },
+      {
+        "date": "2026-06-16",
+        "value": 356702959497.0703
+      },
+      {
+        "date": "2026-06-17",
+        "value": 291187328979.4922
+      },
+      {
+        "date": "2026-06-18",
+        "value": 262369550488.28125
+      },
+      {
+        "date": "2026-06-19",
+        "value": 333345227539.0625
+      },
+      {
+        "date": "2026-06-22",
+        "value": 211833343798.82812
+      },
+      {
+        "date": "2026-06-23",
+        "value": 260110550390.625
+      },
+      {
+        "date": "2026-06-24",
+        "value": 248996915112.3047
+      },
+      {
+        "date": "2026-06-25",
+        "value": 231791513891.60156
+      },
+      {
+        "date": "2026-06-26",
+        "value": 276987521020.5078
+      },
+      {
+        "date": "2026-06-29",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-30",
+        "value": 193958292236.32812
+      },
+      {
+        "date": "2026-07-01",
+        "value": 219266109594.72656
+      },
+      {
+        "date": "2026-07-02",
+        "value": 221117105114.7461
+      },
+      {
+        "date": "2026-07-03",
+        "value": 203600317651.3672
+      },
+      {
+        "date": "2026-07-08",
+        "value": 216854971.67590332
+      }
+    ],
+    "kospi200_volume": [
+      {
+        "date": "2026-05-04",
+        "value": 344400000.0
+      },
+      {
+        "date": "2026-05-06",
+        "value": 431700000.0
+      },
+      {
+        "date": "2026-05-07",
+        "value": 304500000.0
+      },
+      {
+        "date": "2026-05-08",
+        "value": 223200000.0
+      },
+      {
+        "date": "2026-05-11",
+        "value": 354200000.0
+      },
+      {
+        "date": "2026-05-12",
+        "value": 337300000.0
+      },
+      {
+        "date": "2026-05-13",
+        "value": 247100000.0
+      },
+      {
+        "date": "2026-05-14",
+        "value": 312900000.0
+      },
+      {
+        "date": "2026-05-15",
+        "value": 360400000.0
+      },
+      {
+        "date": "2026-05-18",
+        "value": 223900000.0
+      },
+      {
+        "date": "2026-05-19",
+        "value": 213200000.0
+      },
+      {
+        "date": "2026-05-20",
+        "value": 198600000.0
+      },
+      {
+        "date": "2026-05-21",
+        "value": 216600000.0
+      },
+      {
+        "date": "2026-05-22",
+        "value": 165600000.0
+      },
+      {
+        "date": "2026-05-26",
+        "value": 197800000.0
+      },
+      {
+        "date": "2026-05-27",
+        "value": 282700000.0
+      },
+      {
+        "date": "2026-05-28",
+        "value": 235100000.0
+      },
+      {
+        "date": "2026-05-29",
+        "value": 436000000.0
+      },
+      {
+        "date": "2026-06-01",
+        "value": 339000000.0
+      },
+      {
+        "date": "2026-06-02",
+        "value": 318600000.0
+      },
+      {
+        "date": "2026-06-04",
+        "value": 192900000.0
+      },
+      {
+        "date": "2026-06-05",
+        "value": 199500000.0
+      },
+      {
+        "date": "2026-06-08",
+        "value": 201000000.0
+      },
+      {
+        "date": "2026-06-09",
+        "value": 205400000.0
+      },
+      {
+        "date": "2026-06-10",
+        "value": 198300000.0
+      },
+      {
+        "date": "2026-06-11",
+        "value": 215900000.0
+      },
+      {
+        "date": "2026-06-12",
+        "value": 249400000.0
+      },
+      {
+        "date": "2026-06-15",
+        "value": 277700000.0
+      },
+      {
+        "date": "2026-06-16",
+        "value": 256300000.0
+      },
+      {
+        "date": "2026-06-17",
+        "value": 205500000.0
+      },
+      {
+        "date": "2026-06-18",
+        "value": 179800000.0
+      },
+      {
+        "date": "2026-06-19",
+        "value": 228400000.0
+      },
+      {
+        "date": "2026-06-22",
+        "value": 143400000.0
+      },
+      {
+        "date": "2026-06-23",
+        "value": 196800000.0
+      },
+      {
+        "date": "2026-06-24",
+        "value": 181800000.0
+      },
+      {
+        "date": "2026-06-25",
+        "value": 159400000.0
+      },
+      {
+        "date": "2026-06-26",
+        "value": 202700000.0
+      },
+      {
+        "date": "2026-06-29",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-30",
+        "value": 141500000.0
+      },
+      {
+        "date": "2026-07-01",
+        "value": 164200000.0
+      },
+      {
+        "date": "2026-07-02",
+        "value": 181300000.0
+      },
+      {
+        "date": "2026-07-03",
+        "value": 156700000.0
+      },
+      {
+        "date": "2026-07-08",
+        "value": 187207.0
+      }
+    ],
+    "kospi_close": [
+      {
+        "date": "2026-05-04",
+        "value": 6936.990234375
+      },
+      {
+        "date": "2026-05-06",
+        "value": 7384.56005859375
+      },
+      {
+        "date": "2026-05-07",
+        "value": 7490.0498046875
+      },
+      {
+        "date": "2026-05-08",
+        "value": 7498.0
+      },
+      {
+        "date": "2026-05-11",
+        "value": 7822.240234375
+      },
+      {
+        "date": "2026-05-12",
+        "value": 7643.14990234375
+      },
+      {
+        "date": "2026-05-13",
+        "value": 7844.009765625
+      },
+      {
+        "date": "2026-05-14",
+        "value": 7981.41015625
+      },
+      {
+        "date": "2026-05-15",
+        "value": 7493.18017578125
+      },
+      {
+        "date": "2026-05-18",
+        "value": 7516.0400390625
+      },
+      {
+        "date": "2026-05-19",
+        "value": 7271.66015625
+      },
+      {
+        "date": "2026-05-20",
+        "value": 7208.9501953125
+      },
+      {
+        "date": "2026-05-21",
+        "value": 7815.58984375
+      },
+      {
+        "date": "2026-05-22",
+        "value": 7847.7099609375
+      },
+      {
+        "date": "2026-05-26",
+        "value": 8047.509765625
+      },
+      {
+        "date": "2026-05-27",
+        "value": 8228.7001953125
+      },
+      {
+        "date": "2026-05-28",
+        "value": 8185.2900390625
+      },
+      {
+        "date": "2026-05-29",
+        "value": 8476.150390625
+      },
+      {
+        "date": "2026-06-01",
+        "value": 8788.3798828125
+      },
+      {
+        "date": "2026-06-02",
+        "value": 8801.490234375
+      },
+      {
+        "date": "2026-06-04",
+        "value": 8639.41015625
+      },
+      {
+        "date": "2026-06-05",
+        "value": 8160.58984375
+      },
+      {
+        "date": "2026-06-08",
+        "value": 7484.41015625
+      },
+      {
+        "date": "2026-06-09",
+        "value": 8096.93017578125
+      },
+      {
+        "date": "2026-06-10",
+        "value": 7730.81982421875
+      },
+      {
+        "date": "2026-06-11",
+        "value": 7763.9501953125
+      },
+      {
+        "date": "2026-06-12",
+        "value": 8123.6201171875
+      },
+      {
+        "date": "2026-06-15",
+        "value": 8545.98046875
+      },
+      {
+        "date": "2026-06-16",
+        "value": 8726.599609375
+      },
+      {
+        "date": "2026-06-17",
+        "value": 8864.240234375
+      },
+      {
+        "date": "2026-06-18",
+        "value": 9063.83984375
+      },
+      {
+        "date": "2026-06-19",
+        "value": 9052.419921875
+      },
+      {
+        "date": "2026-06-22",
+        "value": 9114.5498046875
+      },
+      {
+        "date": "2026-06-23",
+        "value": 8203.83984375
+      },
+      {
+        "date": "2026-06-24",
+        "value": 8471.01953125
+      },
+      {
+        "date": "2026-06-25",
+        "value": 8930.2998046875
+      },
+      {
+        "date": "2026-06-26",
+        "value": 8411.2099609375
+      },
+      {
+        "date": "2026-06-29",
+        "value": 8394.650390625
+      },
+      {
+        "date": "2026-06-30",
+        "value": 8476.48046875
+      },
+      {
+        "date": "2026-07-01",
+        "value": 8303.41015625
+      },
+      {
+        "date": "2026-07-02",
+        "value": 7648.08984375
+      },
+      {
+        "date": "2026-07-03",
+        "value": 8088.33984375
+      },
+      {
+        "date": "2026-07-06",
+        "value": 8051.330078125
+      },
+      {
+        "date": "2026-07-07",
+        "value": 7656.31005859375
+      },
+      {
+        "date": "2026-07-08",
+        "value": 7246.7900390625
+      }
+    ],
+    "kospi_drawdown_pct": [
+      {
+        "date": "2026-05-04",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-06",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-07",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-08",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-11",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-12",
+        "value": -2.289501813613881
+      },
+      {
+        "date": "2026-05-13",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-14",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-15",
+        "value": -6.117089222465677
+      },
+      {
+        "date": "2026-05-18",
+        "value": -5.830675382884354
+      },
+      {
+        "date": "2026-05-19",
+        "value": -8.892538863501665
+      },
+      {
+        "date": "2026-05-20",
+        "value": -9.678239130871003
+      },
+      {
+        "date": "2026-05-21",
+        "value": -2.077581646022175
+      },
+      {
+        "date": "2026-05-22",
+        "value": -1.6751450269449353
+      },
+      {
+        "date": "2026-05-26",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-27",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-28",
+        "value": -0.527545726781109
+      },
+      {
+        "date": "2026-05-29",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-01",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-02",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-04",
+        "value": -1.841507219902172
+      },
+      {
+        "date": "2026-06-05",
+        "value": -7.281725861853561
+      },
+      {
+        "date": "2026-06-08",
+        "value": -14.964284945531459
+      },
+      {
+        "date": "2026-06-09",
+        "value": -8.005008695482363
+      },
+      {
+        "date": "2026-06-10",
+        "value": -12.164649186050925
+      },
+      {
+        "date": "2026-06-11",
+        "value": -11.788231440742791
+      },
+      {
+        "date": "2026-06-12",
+        "value": -7.7017652594786545
+      },
+      {
+        "date": "2026-06-15",
+        "value": -2.903028451103473
+      },
+      {
+        "date": "2026-06-16",
+        "value": -0.8508857364575406
+      },
+      {
+        "date": "2026-06-17",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-18",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-19",
+        "value": -0.12599430342841167
+      },
+      {
+        "date": "2026-06-22",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-23",
+        "value": -9.991826041360085
+      },
+      {
+        "date": "2026-06-24",
+        "value": -7.0604724010234765
+      },
+      {
+        "date": "2026-06-25",
+        "value": -2.021493150492659
+      },
+      {
+        "date": "2026-06-26",
+        "value": -7.71667124346922
+      },
+      {
+        "date": "2026-06-29",
+        "value": -7.898354054659562
+      },
+      {
+        "date": "2026-06-30",
+        "value": -7.000557894909399
+      },
+      {
+        "date": "2026-07-01",
+        "value": -8.899393451340199
+      },
+      {
+        "date": "2026-07-02",
+        "value": -16.089219899630347
+      },
+      {
+        "date": "2026-07-03",
+        "value": -11.259030702862937
+      },
+      {
+        "date": "2026-07-06",
+        "value": -11.665082196552367
+      },
+      {
+        "date": "2026-07-07",
+        "value": -15.999032067867969
+      },
+      {
+        "date": "2026-07-08",
+        "value": -20.492068238679593
+      }
+    ],
+    "kospi_realized_vol_20d_pct": [
+      {
+        "date": "2026-05-12",
+        "value": 53.6020601167444
+      },
+      {
+        "date": "2026-05-13",
+        "value": 48.13080753676453
+      },
+      {
+        "date": "2026-05-14",
+        "value": 43.97695910952591
+      },
+      {
+        "date": "2026-05-15",
+        "value": 61.935040410911824
+      },
+      {
+        "date": "2026-05-18",
+        "value": 58.039919408429895
+      },
+      {
+        "date": "2026-05-19",
+        "value": 58.635134495177496
+      },
+      {
+        "date": "2026-05-20",
+        "value": 55.99322050285338
+      },
+      {
+        "date": "2026-05-21",
+        "value": 64.07080007553022
+      },
+      {
+        "date": "2026-05-22",
+        "value": 61.396917728469916
+      },
+      {
+        "date": "2026-05-26",
+        "value": 59.36086287681645
+      },
+      {
+        "date": "2026-05-27",
+        "value": 57.40081359102921
+      },
+      {
+        "date": "2026-05-28",
+        "value": 55.84784689644865
+      },
+      {
+        "date": "2026-05-29",
+        "value": 54.896042223605
+      },
+      {
+        "date": "2026-06-01",
+        "value": 54.03299111717038
+      },
+      {
+        "date": "2026-06-02",
+        "value": 52.68180345341723
+      },
+      {
+        "date": "2026-06-04",
+        "value": 52.45276811626116
+      },
+      {
+        "date": "2026-06-05",
+        "value": 54.01111304208255
+      },
+      {
+        "date": "2026-06-08",
+        "value": 62.84090659090762
+      },
+      {
+        "date": "2026-06-09",
+        "value": 68.77769992249198
+      },
+      {
+        "date": "2026-06-10",
+        "value": 69.38924912351251
+      },
+      {
+        "date": "2026-06-11",
+        "value": 68.88708284373018
+      },
+      {
+        "date": "2026-06-12",
+        "value": 70.15457660302049
+      },
+      {
+        "date": "2026-06-15",
+        "value": 72.1079594448414
+      },
+      {
+        "date": "2026-06-16",
+        "value": 67.86833682311403
+      },
+      {
+        "date": "2026-06-17",
+        "value": 67.90314418811464
+      },
+      {
+        "date": "2026-06-18",
+        "value": 66.25957642571444
+      },
+      {
+        "date": "2026-06-19",
+        "value": 66.01973240472789
+      },
+      {
+        "date": "2026-06-22",
+        "value": 60.71290502076808
+      },
+      {
+        "date": "2026-06-23",
+        "value": 72.78266420916839
+      },
+      {
+        "date": "2026-06-24",
+        "value": 73.11175679221519
+      },
+      {
+        "date": "2026-06-25",
+        "value": 74.98244621504091
+      },
+      {
+        "date": "2026-06-26",
+        "value": 78.31843370414765
+      },
+      {
+        "date": "2026-06-29",
+        "value": 77.31027224955332
+      },
+      {
+        "date": "2026-06-30",
+        "value": 76.20868087943853
+      },
+      {
+        "date": "2026-07-01",
+        "value": 76.48571570250499
+      },
+      {
+        "date": "2026-07-02",
+        "value": 81.39188326070291
+      },
+      {
+        "date": "2026-07-03",
+        "value": 81.89556138453965
+      },
+      {
+        "date": "2026-07-06",
+        "value": 75.38297107033777
+      },
+      {
+        "date": "2026-07-07",
+        "value": 72.19519772658668
+      },
+      {
+        "date": "2026-07-08",
+        "value": 72.95223386368008
+      }
+    ],
+    "kospi_traded_value_krw": [
+      {
+        "date": "2026-05-04",
+        "value": 6055992474.609375
+      },
+      {
+        "date": "2026-05-06",
+        "value": 7352806450.341797
+      },
+      {
+        "date": "2026-05-07",
+        "value": 5748613225.097656
+      },
+      {
+        "date": "2026-05-08",
+        "value": 3922203800.0
+      },
+      {
+        "date": "2026-05-11",
+        "value": 5720404283.3984375
+      },
+      {
+        "date": "2026-05-12",
+        "value": 7804420365.283203
+      },
+      {
+        "date": "2026-05-13",
+        "value": 5794370013.8671875
+      },
+      {
+        "date": "2026-05-14",
+        "value": 6783400491.796875
+      },
+      {
+        "date": "2026-05-15",
+        "value": 6635960363.671875
+      },
+      {
+        "date": "2026-05-18",
+        "value": 4258588286.1328125
+      },
+      {
+        "date": "2026-05-19",
+        "value": 3879430693.359375
+      },
+      {
+        "date": "2026-05-20",
+        "value": 3550407971.1914062
+      },
+      {
+        "date": "2026-05-21",
+        "value": 4854262851.953125
+      },
+      {
+        "date": "2026-05-22",
+        "value": 3417677687.9882812
+      },
+      {
+        "date": "2026-05-26",
+        "value": 4181486074.21875
+      },
+      {
+        "date": "2026-05-27",
+        "value": 5097679770.996094
+      },
+      {
+        "date": "2026-05-28",
+        "value": 5475959036.1328125
+      },
+      {
+        "date": "2026-05-29",
+        "value": 6230818152.1484375
+      },
+      {
+        "date": "2026-06-01",
+        "value": 5591167281.4453125
+      },
+      {
+        "date": "2026-06-02",
+        "value": 5567822722.265625
+      },
+      {
+        "date": "2026-06-04",
+        "value": 3783197707.421875
+      },
+      {
+        "date": "2026-06-05",
+        "value": 3779985215.625
+      },
+      {
+        "date": "2026-06-08",
+        "value": 3384450272.65625
+      },
+      {
+        "date": "2026-06-09",
+        "value": 3631473183.8378906
+      },
+      {
+        "date": "2026-06-10",
+        "value": 3563134856.982422
+      },
+      {
+        "date": "2026-06-11",
+        "value": 3716602958.4960938
+      },
+      {
+        "date": "2026-06-12",
+        "value": 4008194165.8203125
+      },
+      {
+        "date": "2026-06-15",
+        "value": 4414853510.15625
+      },
+      {
+        "date": "2026-06-16",
+        "value": 5116405350.9765625
+      },
+      {
+        "date": "2026-06-17",
+        "value": 5063254021.875
+      },
+      {
+        "date": "2026-06-18",
+        "value": 4630715776.171875
+      },
+      {
+        "date": "2026-06-19",
+        "value": 4681911583.59375
+      },
+      {
+        "date": "2026-06-22",
+        "value": 3473554930.5664062
+      },
+      {
+        "date": "2026-06-23",
+        "value": 4009216531.640625
+      },
+      {
+        "date": "2026-06-24",
+        "value": 3542580367.96875
+      },
+      {
+        "date": "2026-06-25",
+        "value": 4080253980.7617188
+      },
+      {
+        "date": "2026-06-26",
+        "value": 4361212364.746094
+      },
+      {
+        "date": "2026-06-29",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-30",
+        "value": 3812720914.84375
+      },
+      {
+        "date": "2026-07-01",
+        "value": 3887656635.15625
+      },
+      {
+        "date": "2026-07-02",
+        "value": 3863814989.0625
+      },
+      {
+        "date": "2026-07-03",
+        "value": 3767548699.21875
+      },
+      {
+        "date": "2026-07-06",
+        "value": 3612631806.0546875
+      },
+      {
+        "date": "2026-07-07",
+        "value": 3953718514.2578125
+      },
+      {
+        "date": "2026-07-08",
+        "value": 3631156331.663086
+      }
+    ],
+    "kospi_volume": [
+      {
+        "date": "2026-05-04",
+        "value": 873000.0
+      },
+      {
+        "date": "2026-05-06",
+        "value": 995700.0
+      },
+      {
+        "date": "2026-05-07",
+        "value": 767500.0
+      },
+      {
+        "date": "2026-05-08",
+        "value": 523100.0
+      },
+      {
+        "date": "2026-05-11",
+        "value": 731300.0
+      },
+      {
+        "date": "2026-05-12",
+        "value": 1021100.0
+      },
+      {
+        "date": "2026-05-13",
+        "value": 738700.0
+      },
+      {
+        "date": "2026-05-14",
+        "value": 849900.0
+      },
+      {
+        "date": "2026-05-15",
+        "value": 885600.0
+      },
+      {
+        "date": "2026-05-18",
+        "value": 566600.0
+      },
+      {
+        "date": "2026-05-19",
+        "value": 533500.0
+      },
+      {
+        "date": "2026-05-20",
+        "value": 492500.0
+      },
+      {
+        "date": "2026-05-21",
+        "value": 621100.0
+      },
+      {
+        "date": "2026-05-22",
+        "value": 435500.0
+      },
+      {
+        "date": "2026-05-26",
+        "value": 519600.0
+      },
+      {
+        "date": "2026-05-27",
+        "value": 619500.0
+      },
+      {
+        "date": "2026-05-28",
+        "value": 669000.0
+      },
+      {
+        "date": "2026-05-29",
+        "value": 735100.0
+      },
+      {
+        "date": "2026-06-01",
+        "value": 636200.0
+      },
+      {
+        "date": "2026-06-02",
+        "value": 632600.0
+      },
+      {
+        "date": "2026-06-04",
+        "value": 437900.0
+      },
+      {
+        "date": "2026-06-05",
+        "value": 463200.0
+      },
+      {
+        "date": "2026-06-08",
+        "value": 452200.0
+      },
+      {
+        "date": "2026-06-09",
+        "value": 448500.0
+      },
+      {
+        "date": "2026-06-10",
+        "value": 460900.0
+      },
+      {
+        "date": "2026-06-11",
+        "value": 478700.0
+      },
+      {
+        "date": "2026-06-12",
+        "value": 493400.0
+      },
+      {
+        "date": "2026-06-15",
+        "value": 516600.0
+      },
+      {
+        "date": "2026-06-16",
+        "value": 586300.0
+      },
+      {
+        "date": "2026-06-17",
+        "value": 571200.0
+      },
+      {
+        "date": "2026-06-18",
+        "value": 510900.0
+      },
+      {
+        "date": "2026-06-19",
+        "value": 517200.0
+      },
+      {
+        "date": "2026-06-22",
+        "value": 381100.0
+      },
+      {
+        "date": "2026-06-23",
+        "value": 488700.0
+      },
+      {
+        "date": "2026-06-24",
+        "value": 418200.0
+      },
+      {
+        "date": "2026-06-25",
+        "value": 456900.0
+      },
+      {
+        "date": "2026-06-26",
+        "value": 518500.0
+      },
+      {
+        "date": "2026-06-29",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-30",
+        "value": 449800.0
+      },
+      {
+        "date": "2026-07-01",
+        "value": 468200.0
+      },
+      {
+        "date": "2026-07-02",
+        "value": 505200.0
+      },
+      {
+        "date": "2026-07-03",
+        "value": 465800.0
+      },
+      {
+        "date": "2026-07-06",
+        "value": 448700.0
+      },
+      {
+        "date": "2026-07-07",
+        "value": 516400.0
+      },
+      {
+        "date": "2026-07-08",
+        "value": 501071.0
+      }
+    ],
+    "krx_kosdaq_foreign_netbuy_bn_krw": [
+      {
+        "date": "2026-07-08",
+        "value": 338.0
+      }
+    ],
+    "krx_kosdaq_individual_netbuy_bn_krw": [
+      {
+        "date": "2026-07-08",
+        "value": -196.0
+      }
+    ],
+    "krx_kosdaq_institution_netbuy_bn_krw": [
+      {
+        "date": "2026-07-08",
+        "value": -145.0
+      }
+    ],
+    "krx_kospi200_futures_foreign_netbuy_bn_krw": [
+      {
+        "date": "2026-07-08",
+        "value": 1634.0
+      }
+    ],
+    "krx_kospi200_futures_individual_netbuy_bn_krw": [
+      {
+        "date": "2026-07-08",
+        "value": 283.0
+      }
+    ],
+    "krx_kospi200_futures_institution_netbuy_bn_krw": [
+      {
+        "date": "2026-07-08",
+        "value": -1946.0
+      }
+    ],
+    "krx_kospi200_options_foreign_netbuy_bn_krw": [
+      {
+        "date": "2026-07-08",
+        "value": -53.0
+      }
+    ],
+    "krx_kospi200_options_individual_netbuy_bn_krw": [
+      {
+        "date": "2026-07-08",
+        "value": 2.0
+      }
+    ],
+    "krx_kospi200_options_institution_netbuy_bn_krw": [
+      {
+        "date": "2026-07-08",
+        "value": 52.0
+      }
+    ],
+    "krx_kospi_foreign_netbuy_bn_krw": [
+      {
+        "date": "2026-07-08",
+        "value": 344.0
+      }
+    ],
+    "krx_kospi_individual_netbuy_bn_krw": [
+      {
+        "date": "2026-07-08",
+        "value": -36.0
+      }
+    ],
+    "krx_kospi_institution_netbuy_bn_krw": [
+      {
+        "date": "2026-07-08",
+        "value": -355.0
+      }
+    ],
+    "leveraged_etf_traded_value_krw": [
+      {
+        "date": "2026-05-27",
+        "value": 6067505445600.0
+      },
+      {
+        "date": "2026-05-28",
+        "value": 5461326939000.0
+      },
+      {
+        "date": "2026-05-29",
+        "value": 4319526765600.0
+      },
+      {
+        "date": "2026-06-01",
+        "value": 5331866109000.0
+      },
+      {
+        "date": "2026-06-02",
+        "value": 6592847521000.0
+      },
+      {
+        "date": "2026-06-04",
+        "value": 3233288821100.0
+      },
+      {
+        "date": "2026-06-05",
+        "value": 4419569121300.0
+      },
+      {
+        "date": "2026-06-08",
+        "value": 3902766995205.0
+      },
+      {
+        "date": "2026-06-09",
+        "value": 4481657081035.0
+      },
+      {
+        "date": "2026-06-10",
+        "value": 3482323651850.0
+      },
+      {
+        "date": "2026-06-11",
+        "value": 4202172097950.0
+      },
+      {
+        "date": "2026-06-12",
+        "value": 4558636927800.0
+      },
+      {
+        "date": "2026-06-15",
+        "value": 3033813504800.0
+      },
+      {
+        "date": "2026-06-16",
+        "value": 4690769902700.0
+      },
+      {
+        "date": "2026-06-17",
+        "value": 5639190721200.0
+      },
+      {
+        "date": "2026-06-18",
+        "value": 8124550165200.0
+      },
+      {
+        "date": "2026-06-19",
+        "value": 10281377790000.0
+      },
+      {
+        "date": "2026-06-22",
+        "value": 8513213339185.0
+      },
+      {
+        "date": "2026-06-23",
+        "value": 8508595463500.0
+      },
+      {
+        "date": "2026-06-24",
+        "value": 10825866233500.0
+      },
+      {
+        "date": "2026-06-25",
+        "value": 9810431550830.0
+      },
+      {
+        "date": "2026-06-26",
+        "value": 8546977875890.0
+      },
+      {
+        "date": "2026-06-29",
+        "value": 6636430593705.0
+      },
+      {
+        "date": "2026-06-30",
+        "value": 6528994581235.0
+      },
+      {
+        "date": "2026-07-01",
+        "value": 5379721446460.0
+      },
+      {
+        "date": "2026-07-02",
+        "value": 5924155798655.0
+      },
+      {
+        "date": "2026-07-03",
+        "value": 9420289838875.0
+      },
+      {
+        "date": "2026-07-06",
+        "value": 5913629935330.0
+      },
+      {
+        "date": "2026-07-07",
+        "value": 6547223524390.0
+      },
+      {
+        "date": "2026-07-08",
+        "value": 6879330832860.0
+      }
+    ],
+    "margin_loans_total_krw": [],
+    "margin_to_deposits_pct": [],
+    "samsung_close": [
+      {
+        "date": "2026-05-04",
+        "value": 232500.0
+      },
+      {
+        "date": "2026-05-06",
+        "value": 266000.0
+      },
+      {
+        "date": "2026-05-07",
+        "value": 271500.0
+      },
+      {
+        "date": "2026-05-08",
+        "value": 268500.0
+      },
+      {
+        "date": "2026-05-11",
+        "value": 285500.0
+      },
+      {
+        "date": "2026-05-12",
+        "value": 279000.0
+      },
+      {
+        "date": "2026-05-13",
+        "value": 284000.0
+      },
+      {
+        "date": "2026-05-14",
+        "value": 296000.0
+      },
+      {
+        "date": "2026-05-15",
+        "value": 270500.0
+      },
+      {
+        "date": "2026-05-18",
+        "value": 281000.0
+      },
+      {
+        "date": "2026-05-19",
+        "value": 275500.0
+      },
+      {
+        "date": "2026-05-20",
+        "value": 276000.0
+      },
+      {
+        "date": "2026-05-21",
+        "value": 299500.0
+      },
+      {
+        "date": "2026-05-22",
+        "value": 292500.0
+      },
+      {
+        "date": "2026-05-26",
+        "value": 299000.0
+      },
+      {
+        "date": "2026-05-27",
+        "value": 307000.0
+      },
+      {
+        "date": "2026-05-28",
+        "value": 299500.0
+      },
+      {
+        "date": "2026-05-29",
+        "value": 317000.0
+      },
+      {
+        "date": "2026-06-01",
+        "value": 349000.0
+      },
+      {
+        "date": "2026-06-02",
+        "value": 360500.0
+      },
+      {
+        "date": "2026-06-04",
+        "value": 351500.0
+      },
+      {
+        "date": "2026-06-05",
+        "value": 329000.0
+      },
+      {
+        "date": "2026-06-08",
+        "value": 295500.0
+      },
+      {
+        "date": "2026-06-09",
+        "value": 322000.0
+      },
+      {
+        "date": "2026-06-10",
+        "value": 302500.0
+      },
+      {
+        "date": "2026-06-11",
+        "value": 299000.0
+      },
+      {
+        "date": "2026-06-12",
+        "value": 322500.0
+      },
+      {
+        "date": "2026-06-15",
+        "value": 337000.0
+      },
+      {
+        "date": "2026-06-16",
+        "value": 343000.0
+      },
+      {
+        "date": "2026-06-17",
+        "value": 346500.0
+      },
+      {
+        "date": "2026-06-18",
+        "value": 362500.0
+      },
+      {
+        "date": "2026-06-19",
+        "value": 354000.0
+      },
+      {
+        "date": "2026-06-22",
+        "value": 353500.0
+      },
+      {
+        "date": "2026-06-23",
+        "value": 310000.0
+      },
+      {
+        "date": "2026-06-24",
+        "value": 340500.0
+      },
+      {
+        "date": "2026-06-25",
+        "value": 358500.0
+      },
+      {
+        "date": "2026-06-26",
+        "value": 339500.0
+      },
+      {
+        "date": "2026-06-29",
+        "value": 323000.0
+      },
+      {
+        "date": "2026-06-30",
+        "value": 334000.0
+      },
+      {
+        "date": "2026-07-01",
+        "value": 314500.0
+      },
+      {
+        "date": "2026-07-02",
+        "value": 286000.0
+      },
+      {
+        "date": "2026-07-03",
+        "value": 309500.0
+      },
+      {
+        "date": "2026-07-06",
+        "value": 318000.0
+      },
+      {
+        "date": "2026-07-07",
+        "value": 296000.0
+      },
+      {
+        "date": "2026-07-08",
+        "value": 277500.0
+      }
+    ],
+    "samsung_leverage_etf_close": [
+      {
+        "date": "2026-05-27",
+        "value": 22830.0
+      },
+      {
+        "date": "2026-05-28",
+        "value": 21700.0
+      },
+      {
+        "date": "2026-05-29",
+        "value": 24315.0
+      },
+      {
+        "date": "2026-06-01",
+        "value": 29350.0
+      },
+      {
+        "date": "2026-06-02",
+        "value": 31325.0
+      },
+      {
+        "date": "2026-06-04",
+        "value": 29465.0
+      },
+      {
+        "date": "2026-06-05",
+        "value": 25565.0
+      },
+      {
+        "date": "2026-06-08",
+        "value": 20270.0
+      },
+      {
+        "date": "2026-06-09",
+        "value": 24115.0
+      },
+      {
+        "date": "2026-06-10",
+        "value": 20975.0
+      },
+      {
+        "date": "2026-06-11",
+        "value": 20435.0
+      },
+      {
+        "date": "2026-06-12",
+        "value": 23730.0
+      },
+      {
+        "date": "2026-06-15",
+        "value": 25685.0
+      },
+      {
+        "date": "2026-06-16",
+        "value": 26660.0
+      },
+      {
+        "date": "2026-06-17",
+        "value": 27390.0
+      },
+      {
+        "date": "2026-06-18",
+        "value": 29965.0
+      },
+      {
+        "date": "2026-06-19",
+        "value": 28435.0
+      },
+      {
+        "date": "2026-06-22",
+        "value": 28265.0
+      },
+      {
+        "date": "2026-06-23",
+        "value": 21310.0
+      },
+      {
+        "date": "2026-06-24",
+        "value": 25285.0
+      },
+      {
+        "date": "2026-06-25",
+        "value": 28280.0
+      },
+      {
+        "date": "2026-06-26",
+        "value": 24970.0
+      },
+      {
+        "date": "2026-06-29",
+        "value": 23055.0
+      },
+      {
+        "date": "2026-06-30",
+        "value": 24445.0
+      },
+      {
+        "date": "2026-07-01",
+        "value": 21605.0
+      },
+      {
+        "date": "2026-07-02",
+        "value": 17600.0
+      },
+      {
+        "date": "2026-07-03",
+        "value": 20375.0
+      },
+      {
+        "date": "2026-07-06",
+        "value": 21220.0
+      },
+      {
+        "date": "2026-07-07",
+        "value": 18310.0
+      },
+      {
+        "date": "2026-07-08",
+        "value": 16185.0
+      }
+    ],
+    "samsung_leverage_etf_traded_value_krw": [
+      {
+        "date": "2026-05-27",
+        "value": 1835453693100.0
+      },
+      {
+        "date": "2026-05-28",
+        "value": 1481993254000.0
+      },
+      {
+        "date": "2026-05-29",
+        "value": 1581808434600.0
+      },
+      {
+        "date": "2026-06-01",
+        "value": 2486921768000.0
+      },
+      {
+        "date": "2026-06-02",
+        "value": 3535680942500.0
+      },
+      {
+        "date": "2026-06-04",
+        "value": 1950890319950.0
+      },
+      {
+        "date": "2026-06-05",
+        "value": 2035311969300.0
+      },
+      {
+        "date": "2026-06-08",
+        "value": 1713771014280.0
+      },
+      {
+        "date": "2026-06-09",
+        "value": 1733144736505.0
+      },
+      {
+        "date": "2026-06-10",
+        "value": 1348568957250.0
+      },
+      {
+        "date": "2026-06-11",
+        "value": 1382792923450.0
+      },
+      {
+        "date": "2026-06-12",
+        "value": 2295829565400.0
+      },
+      {
+        "date": "2026-06-15",
+        "value": 1242755368800.0
+      },
+      {
+        "date": "2026-06-16",
+        "value": 2038664873000.0
+      },
+      {
+        "date": "2026-06-17",
+        "value": 2012882335200.0
+      },
+      {
+        "date": "2026-06-18",
+        "value": 2854684045200.0
+      },
+      {
+        "date": "2026-06-19",
+        "value": 3440236910000.0
+      },
+      {
+        "date": "2026-06-22",
+        "value": 2464445955185.0
+      },
+      {
+        "date": "2026-06-23",
+        "value": 2118200958280.0
+      },
+      {
+        "date": "2026-06-24",
+        "value": 3751089321460.0
+      },
+      {
+        "date": "2026-06-25",
+        "value": 2877188987680.0
+      },
+      {
+        "date": "2026-06-26",
+        "value": 2505433018220.0
+      },
+      {
+        "date": "2026-06-29",
+        "value": 1756262556345.0
+      },
+      {
+        "date": "2026-06-30",
+        "value": 2195711794740.0
+      },
+      {
+        "date": "2026-07-01",
+        "value": 1402057058335.0
+      },
+      {
+        "date": "2026-07-02",
+        "value": 1635320403200.0
+      },
+      {
+        "date": "2026-07-03",
+        "value": 2102206048875.0
+      },
+      {
+        "date": "2026-07-06",
+        "value": 1912352065740.0
+      },
+      {
+        "date": "2026-07-07",
+        "value": 1952374811110.0
+      },
+      {
+        "date": "2026-07-08",
+        "value": 1650338970150.0
+      }
+    ],
+    "samsung_leverage_etf_volume": [
+      {
+        "date": "2026-05-27",
+        "value": 80396570.0
+      },
+      {
+        "date": "2026-05-28",
+        "value": 68294620.0
+      },
+      {
+        "date": "2026-05-29",
+        "value": 65054840.0
+      },
+      {
+        "date": "2026-06-01",
+        "value": 84733280.0
+      },
+      {
+        "date": "2026-06-02",
+        "value": 112870900.0
+      },
+      {
+        "date": "2026-06-04",
+        "value": 66210430.0
+      },
+      {
+        "date": "2026-06-05",
+        "value": 79613220.0
+      },
+      {
+        "date": "2026-06-08",
+        "value": 84547164.0
+      },
+      {
+        "date": "2026-06-09",
+        "value": 71869987.0
+      },
+      {
+        "date": "2026-06-10",
+        "value": 64294110.0
+      },
+      {
+        "date": "2026-06-11",
+        "value": 67667870.0
+      },
+      {
+        "date": "2026-06-12",
+        "value": 96747980.0
+      },
+      {
+        "date": "2026-06-15",
+        "value": 48384480.0
+      },
+      {
+        "date": "2026-06-16",
+        "value": 76469050.0
+      },
+      {
+        "date": "2026-06-17",
+        "value": 73489680.0
+      },
+      {
+        "date": "2026-06-18",
+        "value": 95267280.0
+      },
+      {
+        "date": "2026-06-19",
+        "value": 120986000.0
+      },
+      {
+        "date": "2026-06-22",
+        "value": 87190729.0
+      },
+      {
+        "date": "2026-06-23",
+        "value": 99399388.0
+      },
+      {
+        "date": "2026-06-24",
+        "value": 148352356.0
+      },
+      {
+        "date": "2026-06-25",
+        "value": 101739356.0
+      },
+      {
+        "date": "2026-06-26",
+        "value": 100337726.0
+      },
+      {
+        "date": "2026-06-29",
+        "value": 76177079.0
+      },
+      {
+        "date": "2026-06-30",
+        "value": 89822532.0
+      },
+      {
+        "date": "2026-07-01",
+        "value": 64895027.0
+      },
+      {
+        "date": "2026-07-02",
+        "value": 92915932.0
+      },
+      {
+        "date": "2026-07-03",
+        "value": 103175757.0
+      },
+      {
+        "date": "2026-07-06",
+        "value": 90120267.0
+      },
+      {
+        "date": "2026-07-07",
+        "value": 106628881.0
+      },
+      {
+        "date": "2026-07-08",
+        "value": 101967190.0
+      }
+    ],
+    "samsung_traded_value_krw": [
+      {
+        "date": "2026-05-04",
+        "value": 7654089720000.0
+      },
+      {
+        "date": "2026-05-06",
+        "value": 14124066936000.0
+      },
+      {
+        "date": "2026-05-07",
+        "value": 11241372520500.0
+      },
+      {
+        "date": "2026-05-08",
+        "value": 6947673780000.0
+      },
+      {
+        "date": "2026-05-11",
+        "value": 10286877337000.0
+      },
+      {
+        "date": "2026-05-12",
+        "value": 11497910571000.0
+      },
+      {
+        "date": "2026-05-13",
+        "value": 10093398056000.0
+      },
+      {
+        "date": "2026-05-14",
+        "value": 11637166592000.0
+      },
+      {
+        "date": "2026-05-15",
+        "value": 10299419233500.0
+      },
+      {
+        "date": "2026-05-18",
+        "value": 9429015134000.0
+      },
+      {
+        "date": "2026-05-19",
+        "value": 8476465259500.0
+      },
+      {
+        "date": "2026-05-20",
+        "value": 9842733252000.0
+      },
+      {
+        "date": "2026-05-21",
+        "value": 10832522355500.0
+      },
+      {
+        "date": "2026-05-22",
+        "value": 5380617645000.0
+      },
+      {
+        "date": "2026-05-26",
+        "value": 7008969929000.0
+      },
+      {
+        "date": "2026-05-27",
+        "value": 10412423216000.0
+      },
+      {
+        "date": "2026-05-28",
+        "value": 9043502533000.0
+      },
+      {
+        "date": "2026-05-29",
+        "value": 11805567229000.0
+      },
+      {
+        "date": "2026-06-01",
+        "value": 15723318312000.0
+      },
+      {
+        "date": "2026-06-02",
+        "value": 16121661661000.0
+      },
+      {
+        "date": "2026-06-04",
+        "value": 12222019505500.0
+      },
+      {
+        "date": "2026-06-05",
+        "value": 11095528948000.0
+      },
+      {
+        "date": "2026-06-08",
+        "value": 11503721031000.0
+      },
+      {
+        "date": "2026-06-09",
+        "value": 9700008178000.0
+      },
+      {
+        "date": "2026-06-10",
+        "value": 360277500.0
+      },
+      {
+        "date": "2026-06-11",
+        "value": 9394671793000.0
+      },
+      {
+        "date": "2026-06-12",
+        "value": 9999482730000.0
+      },
+      {
+        "date": "2026-06-15",
+        "value": 7245522579000.0
+      },
+      {
+        "date": "2026-06-16",
+        "value": 6019198955000.0
+      },
+      {
+        "date": "2026-06-17",
+        "value": 6283448671500.0
+      },
+      {
+        "date": "2026-06-18",
+        "value": 11877113125000.0
+      },
+      {
+        "date": "2026-06-19",
+        "value": 15322853892000.0
+      },
+      {
+        "date": "2026-06-22",
+        "value": 8600814428500.0
+      },
+      {
+        "date": "2026-06-23",
+        "value": 12792655300000.0
+      },
+      {
+        "date": "2026-06-24",
+        "value": 16279291039500.0
+      },
+      {
+        "date": "2026-06-25",
+        "value": 12962341143000.0
+      },
+      {
+        "date": "2026-06-26",
+        "value": 13490355364500.0
+      },
+      {
+        "date": "2026-06-29",
+        "value": 11445996283000.0
+      },
+      {
+        "date": "2026-06-30",
+        "value": 9765230144000.0
+      },
+      {
+        "date": "2026-07-01",
+        "value": 7852556139000.0
+      },
+      {
+        "date": "2026-07-02",
+        "value": 11126851164000.0
+      },
+      {
+        "date": "2026-07-03",
+        "value": 9755606511000.0
+      },
+      {
+        "date": "2026-07-06",
+        "value": 7591575522000.0
+      },
+      {
+        "date": "2026-07-07",
+        "value": 9596625472000.0
+      },
+      {
+        "date": "2026-07-08",
+        "value": 9928397497500.0
+      }
+    ],
+    "samsung_volume": [
+      {
+        "date": "2026-05-04",
+        "value": 32920816.0
+      },
+      {
+        "date": "2026-05-06",
+        "value": 53097996.0
+      },
+      {
+        "date": "2026-05-07",
+        "value": 41404687.0
+      },
+      {
+        "date": "2026-05-08",
+        "value": 25875880.0
+      },
+      {
+        "date": "2026-05-11",
+        "value": 36031094.0
+      },
+      {
+        "date": "2026-05-12",
+        "value": 41211149.0
+      },
+      {
+        "date": "2026-05-13",
+        "value": 35540134.0
+      },
+      {
+        "date": "2026-05-14",
+        "value": 39314752.0
+      },
+      {
+        "date": "2026-05-15",
+        "value": 38075487.0
+      },
+      {
+        "date": "2026-05-18",
+        "value": 33555214.0
+      },
+      {
+        "date": "2026-05-19",
+        "value": 30767569.0
+      },
+      {
+        "date": "2026-05-20",
+        "value": 35662077.0
+      },
+      {
+        "date": "2026-05-21",
+        "value": 36168689.0
+      },
+      {
+        "date": "2026-05-22",
+        "value": 18395274.0
+      },
+      {
+        "date": "2026-05-26",
+        "value": 23441371.0
+      },
+      {
+        "date": "2026-05-27",
+        "value": 33916688.0
+      },
+      {
+        "date": "2026-05-28",
+        "value": 30195334.0
+      },
+      {
+        "date": "2026-05-29",
+        "value": 37241537.0
+      },
+      {
+        "date": "2026-06-01",
+        "value": 45052488.0
+      },
+      {
+        "date": "2026-06-02",
+        "value": 44720282.0
+      },
+      {
+        "date": "2026-06-04",
+        "value": 34771037.0
+      },
+      {
+        "date": "2026-06-05",
+        "value": 33725012.0
+      },
+      {
+        "date": "2026-06-08",
+        "value": 38929682.0
+      },
+      {
+        "date": "2026-06-09",
+        "value": 30124249.0
+      },
+      {
+        "date": "2026-06-10",
+        "value": 1191.0
+      },
+      {
+        "date": "2026-06-11",
+        "value": 31420307.0
+      },
+      {
+        "date": "2026-06-12",
+        "value": 31006148.0
+      },
+      {
+        "date": "2026-06-15",
+        "value": 21500067.0
+      },
+      {
+        "date": "2026-06-16",
+        "value": 17548685.0
+      },
+      {
+        "date": "2026-06-17",
+        "value": 18134051.0
+      },
+      {
+        "date": "2026-06-18",
+        "value": 32764450.0
+      },
+      {
+        "date": "2026-06-19",
+        "value": 43284898.0
+      },
+      {
+        "date": "2026-06-22",
+        "value": 24330451.0
+      },
+      {
+        "date": "2026-06-23",
+        "value": 41266630.0
+      },
+      {
+        "date": "2026-06-24",
+        "value": 47809959.0
+      },
+      {
+        "date": "2026-06-25",
+        "value": 36157158.0
+      },
+      {
+        "date": "2026-06-26",
+        "value": 39735951.0
+      },
+      {
+        "date": "2026-06-29",
+        "value": 35436521.0
+      },
+      {
+        "date": "2026-06-30",
+        "value": 29237216.0
+      },
+      {
+        "date": "2026-07-01",
+        "value": 24968382.0
+      },
+      {
+        "date": "2026-07-02",
+        "value": 38905074.0
+      },
+      {
+        "date": "2026-07-03",
+        "value": 31520538.0
+      },
+      {
+        "date": "2026-07-06",
+        "value": 23872879.0
+      },
+      {
+        "date": "2026-07-07",
+        "value": 32421032.0
+      },
+      {
+        "date": "2026-07-08",
+        "value": 35778009.0
+      }
+    ],
+    "stock_collateral_loans_krw": [],
+    "usdkrw_close": [
+      {
+        "date": "2026-05-01",
+        "value": 1474.010009765625
+      },
+      {
+        "date": "2026-05-04",
+        "value": 1471.72998046875
+      },
+      {
+        "date": "2026-05-05",
+        "value": 1476.050048828125
+      },
+      {
+        "date": "2026-05-06",
+        "value": 1473.9599609375
+      },
+      {
+        "date": "2026-05-07",
+        "value": 1444.449951171875
+      },
+      {
+        "date": "2026-05-08",
+        "value": 1454.7900390625
+      },
+      {
+        "date": "2026-05-11",
+        "value": 1460.550048828125
+      },
+      {
+        "date": "2026-05-12",
+        "value": 1474.449951171875
+      },
+      {
+        "date": "2026-05-13",
+        "value": 1492.989990234375
+      },
+      {
+        "date": "2026-05-14",
+        "value": 1489.8399658203125
+      },
+      {
+        "date": "2026-05-15",
+        "value": 1493.3399658203125
+      },
+      {
+        "date": "2026-05-18",
+        "value": 1497.1500244140625
+      },
+      {
+        "date": "2026-05-19",
+        "value": 1492.3199462890625
+      },
+      {
+        "date": "2026-05-20",
+        "value": 1507.8499755859375
+      },
+      {
+        "date": "2026-05-21",
+        "value": 1499.77001953125
+      },
+      {
+        "date": "2026-05-22",
+        "value": 1504.4000244140625
+      },
+      {
+        "date": "2026-05-25",
+        "value": 1512.8299560546875
+      },
+      {
+        "date": "2026-05-26",
+        "value": 1514.7900390625
+      },
+      {
+        "date": "2026-05-27",
+        "value": 1505.43994140625
+      },
+      {
+        "date": "2026-05-28",
+        "value": 1503.1099853515625
+      },
+      {
+        "date": "2026-05-29",
+        "value": 1495.2900390625
+      },
+      {
+        "date": "2026-06-01",
+        "value": 1506.8399658203125
+      },
+      {
+        "date": "2026-06-02",
+        "value": 1511.27001953125
+      },
+      {
+        "date": "2026-06-03",
+        "value": 1516.5999755859375
+      },
+      {
+        "date": "2026-06-04",
+        "value": 1530.1099853515625
+      },
+      {
+        "date": "2026-06-05",
+        "value": 1533.0699462890625
+      },
+      {
+        "date": "2026-06-08",
+        "value": 1554.47998046875
+      },
+      {
+        "date": "2026-06-09",
+        "value": 1528.8800048828125
+      },
+      {
+        "date": "2026-06-10",
+        "value": 1525.81005859375
+      },
+      {
+        "date": "2026-06-11",
+        "value": 1525.050048828125
+      },
+      {
+        "date": "2026-06-12",
+        "value": 1517.3800048828125
+      },
+      {
+        "date": "2026-06-15",
+        "value": 1509.5
+      },
+      {
+        "date": "2026-06-16",
+        "value": 1513.31005859375
+      },
+      {
+        "date": "2026-06-17",
+        "value": 1510.9599609375
+      },
+      {
+        "date": "2026-06-18",
+        "value": 1525.4200439453125
+      },
+      {
+        "date": "2026-06-19",
+        "value": 1537.56005859375
+      },
+      {
+        "date": "2026-06-22",
+        "value": 1531.3299560546875
+      },
+      {
+        "date": "2026-06-23",
+        "value": 1539.050048828125
+      },
+      {
+        "date": "2026-06-24",
+        "value": 1535.25
+      },
+      {
+        "date": "2026-06-25",
+        "value": 1542.760009765625
+      },
+      {
+        "date": "2026-06-26",
+        "value": 1546.47998046875
+      },
+      {
+        "date": "2026-06-29",
+        "value": 1535.239990234375
+      },
+      {
+        "date": "2026-06-30",
+        "value": 1541.72998046875
+      },
+      {
+        "date": "2026-07-01",
+        "value": 1548.6099853515625
+      },
+      {
+        "date": "2026-07-02",
+        "value": 1551.81005859375
+      },
+      {
+        "date": "2026-07-03",
+        "value": 1542.1300048828125
+      },
+      {
+        "date": "2026-07-06",
+        "value": 1531.0
+      },
+      {
+        "date": "2026-07-07",
+        "value": 1528.760009765625
+      },
+      {
+        "date": "2026-07-08",
+        "value": 1508.550048828125
+      }
+    ],
+    "usdkrw_traded_value_krw": [
+      {
+        "date": "2026-05-01",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-04",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-05",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-06",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-07",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-08",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-11",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-12",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-13",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-14",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-15",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-18",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-19",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-20",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-21",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-22",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-25",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-26",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-27",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-28",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-29",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-01",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-02",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-03",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-04",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-05",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-08",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-09",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-10",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-11",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-12",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-15",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-16",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-17",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-18",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-19",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-22",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-23",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-24",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-25",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-26",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-29",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-30",
+        "value": 0.0
+      },
+      {
+        "date": "2026-07-01",
+        "value": 0.0
+      },
+      {
+        "date": "2026-07-02",
+        "value": 0.0
+      },
+      {
+        "date": "2026-07-03",
+        "value": 0.0
+      },
+      {
+        "date": "2026-07-06",
+        "value": 0.0
+      },
+      {
+        "date": "2026-07-07",
+        "value": 0.0
+      },
+      {
+        "date": "2026-07-08",
+        "value": 0.0
+      }
+    ],
+    "usdkrw_volume": [
+      {
+        "date": "2026-05-01",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-04",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-05",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-06",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-07",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-08",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-11",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-12",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-13",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-14",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-15",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-18",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-19",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-20",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-21",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-22",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-25",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-26",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-27",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-28",
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-29",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-01",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-02",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-03",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-04",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-05",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-08",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-09",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-10",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-11",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-12",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-15",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-16",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-17",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-18",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-19",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-22",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-23",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-24",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-25",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-26",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-29",
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-30",
+        "value": 0.0
+      },
+      {
+        "date": "2026-07-01",
+        "value": 0.0
+      },
+      {
+        "date": "2026-07-02",
+        "value": 0.0
+      },
+      {
+        "date": "2026-07-03",
+        "value": 0.0
+      },
+      {
+        "date": "2026-07-06",
+        "value": 0.0
+      },
+      {
+        "date": "2026-07-07",
+        "value": 0.0
+      },
+      {
+        "date": "2026-07-08",
+        "value": 0.0
+      }
+    ]
+  },
+  "source_status": [
+    {
+      "detail": "45 daily rows from 2026-05-01",
+      "latest_date": "2026-07-08",
+      "source": "Yahoo Finance ^KS11",
+      "status": "ok"
+    },
+    {
+      "detail": "43 daily rows from 2026-05-01",
+      "latest_date": "2026-07-08",
+      "source": "Yahoo Finance ^KS200",
+      "status": "ok"
+    },
+    {
+      "detail": "45 daily rows from 2026-05-01",
+      "latest_date": "2026-07-08",
+      "source": "Yahoo Finance ^KQ11",
+      "status": "ok"
+    },
+    {
+      "detail": "45 daily rows from 2026-05-01",
+      "latest_date": "2026-07-07",
+      "source": "Yahoo Finance EWY",
+      "status": "ok"
+    },
+    {
+      "detail": "49 daily rows from 2026-05-01",
+      "latest_date": "2026-07-08",
+      "source": "Yahoo Finance USDKRW=X",
+      "status": "ok"
+    },
+    {
+      "detail": "45 daily rows from 2026-05-01",
+      "latest_date": "2026-07-08",
+      "source": "Yahoo Finance 005930.KS",
+      "status": "ok"
+    },
+    {
+      "detail": "45 daily rows from 2026-05-01",
+      "latest_date": "2026-07-08",
+      "source": "Yahoo Finance 000660.KS",
+      "status": "ok"
+    },
+    {
+      "detail": "30 daily rows from 2026-05-01",
+      "latest_date": "2026-07-08",
+      "source": "Yahoo Finance 0193W0.KS",
+      "status": "ok"
+    },
+    {
+      "detail": "30 daily rows from 2026-05-01",
+      "latest_date": "2026-07-08",
+      "source": "Yahoo Finance 0193T0.KS",
+      "status": "ok"
+    },
+    {
+      "detail": "Using ECOS sample key; only a short recent slice is available. Set BOK_ECOS_API_KEY for full backfill.",
+      "source": "Bank of Korea ECOS",
+      "status": "sample"
+    },
+    {
+      "detail": "Set KOREA_FSC_SERVICE_KEY or DATA_GO_KR_SERVICE_KEY for margin loans, collateral loans, deposits, and forced-sale history.",
+      "source": "FSC/KOFIA public-data API",
+      "status": "missing_key"
+    },
+    {
+      "detail": "Latest public snapshot in KRW billions.",
+      "latest_datetime": "2026.07.08 PM 10:00:14",
+      "source": "KRX KOSPI cash",
+      "status": "ok"
+    },
+    {
+      "detail": "Latest public snapshot in KRW billions.",
+      "latest_datetime": "2026.07.08 PM 10:00:15",
+      "source": "KRX KOSDAQ cash",
+      "status": "ok"
+    },
+    {
+      "detail": "Latest public snapshot in KRW billions.",
+      "latest_datetime": "2026.07.08 PM 10:00:16",
+      "source": "KRX KOSPI 200 futures",
+      "status": "ok"
+    },
+    {
+      "detail": "Latest public snapshot in KRW billions.",
+      "latest_datetime": "2026.07.08 PM 10:00:17",
+      "source": "KRX KOSPI 200 options",
+      "status": "ok"
+    },
+    {
+      "detail": "Add /Users/robkwok/Hobbies/money/data/korea_leverage_manual.json to seed manually sourced series or older backfills.",
+      "source": "Local manual Korea leverage series",
+      "status": "optional"
+    }
+  ],
+  "start_date": "2026-05-01",
+  "watchlist": [
+    {
+      "metric": "Brokerage margin-loan rates",
+      "status": "Manual/news or brokerage disclosures; not yet automated.",
+      "why": "Direct cost of holding leveraged stock positions."
+    },
+    {
+      "metric": "Bank unsecured-credit and overdraft balances",
+      "status": "Best source is BOK/FSS releases; add when an API/source is pinned.",
+      "why": "Captures the retail shift from brokerage margin to bank credit lines."
+    },
+    {
+      "metric": "Official VKOSPI/KSVKOSPI",
+      "status": "Slot present; using 20d realized KOSPI vol proxy until KRX feed is configured.",
+      "why": "Options-implied stress gauge for KOSPI 200."
+    },
+    {
+      "metric": "KOSPI 200 futures price/basis",
+      "status": "Current investor-flow snapshots are live; historical price/basis needs KRX data access.",
+      "why": "Tracks derivatives stress and hedging pressure."
+    },
+    {
+      "metric": "ETF creations/redemptions or AUM",
+      "status": "Using traded-value proxy from Yahoo; add KRX/fund AUM feed when available.",
+      "why": "Better measure of single-stock leveraged ETF flow than price x volume."
+    }
+  ]
+}
